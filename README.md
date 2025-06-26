@@ -40,7 +40,7 @@ source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate     # On Windows
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r backend/requirements.txt
 ```
 
 ## Quick Start
@@ -51,13 +51,7 @@ Before starting the application, make sure you have created the `secret.env` fil
 
 ### 1. Start the Frontend (UAVLogViewer)
 
-First, navigate to the UAVLogViewer directory:
-
-```bash
-cd UAVLogViewer
-```
-
-Then run the Docker container to start the frontend application:
+Run the Docker container to start the frontend application:
 
 ```bash
 docker run \
@@ -72,16 +66,16 @@ The frontend will be available at `http://localhost:8080`
 
 ### 2. Start the Backend Server
 
-Open a new terminal window and navigate back to the root directory:
+Open a new terminal window and navigate to the backend directory:
 
 ```bash
-cd /path/to/arena.ai
+cd backend
 ```
 
 Activate the virtual environment:
 
 ```bash
-source venv/bin/activate
+source ../venv/bin/activate
 ```
 
 Start the Flask backend server:

@@ -258,6 +258,14 @@ export default {
                 this.$eventHub.$emit('messages')
             } else if (event.data.url) {
                 this.downloadFileFromURL(event.data.url)
+            } else if (event.data.backendResponse) {
+                console.log('Backend response:', event.data.backendResponse)
+                // Handle successful backend response
+                this.$eventHub.$emit('backendDataSent', event.data.backendResponse)
+            } else if (event.data.backendError) {
+                console.error('Backend error:', event.data.backendError)
+                // Handle backend error
+                this.$eventHub.$emit('backendError', event.data.backendError)
             }
         }
         const url = document.location.search.split('?file=')[1]

@@ -3,6 +3,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
+import store from './store'
 
 // Importing Bootstrap Vue
 import BootstrapVue from 'bootstrap-vue'
@@ -23,6 +24,7 @@ Vue.prototype.$eventHub = new Vue() // Global event bus
 new Vue({
     el: '#app',
     router,
+    store,
     components: { App },
     template: '<App/>'
 })

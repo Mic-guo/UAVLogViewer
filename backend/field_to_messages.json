@@ -1,0 +1,7305 @@
+{
+  "timeus": [
+    "acc",
+    "adsb",
+    "aetr",
+    "ahr2",
+    "aisr",
+    "ang",
+    "aoa",
+    "arm",
+    "arsp",
+    "asm1",
+    "asm2",
+    "atde",
+    "atrp",
+    "atsc",
+    "att",
+    "atun",
+    "auxf",
+    "bard",
+    "baro",
+    "bat",
+    "bcl",
+    "bcl2",
+    "bcn",
+    "cafd",
+    "cam",
+    "cand",
+    "canf",
+    "cans",
+    "cc",
+    "cmd",
+    "csrv",
+    "ctun",
+    "dcm",
+    "dms",
+    "dsf",
+    "dstl",
+    "eahr",
+    "eahv",
+    "ecyl",
+    "edt2",
+    "efi",
+    "efi2",
+    "efis",
+    "err",
+    "esc",
+    "escx",
+    "ev",
+    "fcn",
+    "fcns",
+    "fenc",
+    "fmtu",
+    "fnce",
+    "foll",
+    "ftn",
+    "ftn1",
+    "ftn2",
+    "ftn3",
+    "ftns",
+    "fwdt",
+    "glt",
+    "gpa",
+    "gps",
+    "gpyw",
+    "graw",
+    "grxh",
+    "grxs",
+    "gyr",
+    "heat",
+    "hrsc",
+    "hygr",
+    "icmb",
+    "ie24",
+    "iefc",
+    "ilb1",
+    "ilb2",
+    "ilb3",
+    "ilb4",
+    "ilb5",
+    "ilb6",
+    "ilb7",
+    "ilb8",
+    "imu",
+    "iomc",
+    "ireg",
+    "isbd",
+    "isbh",
+    "jsn1",
+    "jsn2",
+    "land",
+    "lgr",
+    "loec",
+    "loeg",
+    "mag",
+    "magh",
+    "mav",
+    "mavc",
+    "mcu",
+    "mise",
+    "mmo",
+    "mnt",
+    "mode",
+    "mon",
+    "motb",
+    "msg",
+    "mult",
+    "nkf0",
+    "nkf1",
+    "nkf2",
+    "nkf3",
+    "nkf4",
+    "nkf5",
+    "nkq",
+    "nkt",
+    "nky0",
+    "nky1",
+    "ntun",
+    "nvf",
+    "oabr",
+    "oadj",
+    "oavg",
+    "of",
+    "ofca",
+    "ofg",
+    "orgn",
+    "parm",
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy",
+    "pl",
+    "pm",
+    "pos",
+    "powr",
+    "prtn",
+    "prx",
+    "prxr",
+    "pscd",
+    "psce",
+    "pscn",
+    "psod",
+    "psoe",
+    "pson",
+    "psot",
+    "qbrk",
+    "qpos",
+    "qtun",
+    "qwik",
+    "rad",
+    "raly",
+    "rate",
+    "rcda",
+    "rci2",
+    "rcin",
+    "rco2",
+    "rco3",
+    "rcou",
+    "rely",
+    "rfnd",
+    "rfrh",
+    "rich",
+    "rpm",
+    "rssi",
+    "rtc",
+    "rtcm",
+    "sa",
+    "saf1",
+    "san1",
+    "san2",
+    "sba1",
+    "sblm",
+    "sbph",
+    "sbre",
+    "scr",
+    "sctl",
+    "scve",
+    "sfa1",
+    "sfan",
+    "sfn",
+    "sft",
+    "sfv1",
+    "sidd",
+    "sids",
+    "sim",
+    "sim2",
+    "sitl",
+    "sl2",
+    "sld",
+    "slup",
+    "slv1",
+    "slv2",
+    "smgc",
+    "smoo",
+    "smvz",
+    "soar",
+    "sorc",
+    "srt1",
+    "srt2",
+    "srt3",
+    "srtl",
+    "ssan",
+    "stak",
+    "stat",
+    "swsh",
+    "tclr",
+    "tec2",
+    "tec3",
+    "tec4",
+    "tecs",
+    "temp",
+    "terr",
+    "teth",
+    "tilt",
+    "trig",
+    "trmp",
+    "trms",
+    "trqd",
+    "trse",
+    "trst",
+    "tsit",
+    "tsyn",
+    "uart",
+    "ubx1",
+    "ubx2",
+    "ubxt",
+    "unit",
+    "var",
+    "ver",
+    "vibe",
+    "viso",
+    "visp",
+    "visv",
+    "vnat",
+    "vnim",
+    "vnkf",
+    "vstb",
+    "wdog",
+    "wenc",
+    "winc",
+    "wind",
+    "xkf0",
+    "xkf1",
+    "xkf2",
+    "xkf3",
+    "xkf4",
+    "xkf5",
+    "xkfd",
+    "xkfm",
+    "xkfs",
+    "xkq",
+    "xkt",
+    "xktv",
+    "xkv1",
+    "xkv2",
+    "xky0",
+    "xky1"
+  ],
+  "i": [
+    "acc",
+    "arsp",
+    "atrp",
+    "bard",
+    "baro",
+    "cam",
+    "cans",
+    "dstl",
+    "fcn",
+    "fcns",
+    "ftn",
+    "ftns",
+    "gpa",
+    "gps",
+    "gyr",
+    "heat",
+    "hrsc",
+    "imu",
+    "loec",
+    "loeg",
+    "mag",
+    "mnt",
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy",
+    "rasi",
+    "rbci",
+    "rbri",
+    "rgpi",
+    "rgpj",
+    "risi",
+    "rmgi",
+    "rpm",
+    "rrni",
+    "swsh",
+    "tclr",
+    "tec2",
+    "tec3",
+    "trig",
+    "trmp",
+    "trms",
+    "trqd",
+    "trse",
+    "trst",
+    "uart",
+    "ubxt"
+  ],
+  "sampleus": [
+    "acc",
+    "gyr",
+    "isbh"
+  ],
+  "accx": [
+    "acc",
+    "ilb1",
+    "imu",
+    "vstb"
+  ],
+  "accy": [
+    "acc",
+    "ilb1",
+    "imu",
+    "vstb"
+  ],
+  "accz": [
+    "acc",
+    "ilb1",
+    "imu",
+    "vstb"
+  ],
+  "icao_address": [
+    "adsb"
+  ],
+  "lat": [
+    "adsb",
+    "ahr2",
+    "ais1",
+    "ais4",
+    "cam",
+    "cmd",
+    "dstl",
+    "eahr",
+    "fnce",
+    "foll",
+    "gps",
+    "ilb4",
+    "ilb7",
+    "mise",
+    "oavg",
+    "orgn",
+    "pos",
+    "raly",
+    "rgpj",
+    "rsll",
+    "rso2",
+    "rso3",
+    "sim",
+    "terr",
+    "trig",
+    "vnkf"
+  ],
+  "lng": [
+    "adsb",
+    "ahr2",
+    "cam",
+    "cmd",
+    "dstl",
+    "fnce",
+    "gps",
+    "ilb4",
+    "ilb7",
+    "mise",
+    "orgn",
+    "pos",
+    "raly",
+    "rsll",
+    "sim",
+    "terr",
+    "trig"
+  ],
+  "alt": [
+    "adsb",
+    "ahr2",
+    "asm2",
+    "baro",
+    "cam",
+    "cmd",
+    "dstl",
+    "eahr",
+    "fenc",
+    "foll",
+    "gps",
+    "ilb3",
+    "ilb4",
+    "ilb7",
+    "mise",
+    "ofg",
+    "orgn",
+    "pos",
+    "qtun",
+    "qtun",
+    "raly",
+    "rbri",
+    "rgpj",
+    "rso2",
+    "rso3",
+    "sim",
+    "soar",
+    "trig",
+    "var",
+    "vnkf"
+  ],
+  "heading": [
+    "adsb"
+  ],
+  "hor_vel": [
+    "adsb"
+  ],
+  "ver_vel": [
+    "adsb"
+  ],
+  "squark": [
+    "adsb"
+  ],
+  "ail": [
+    "aetr",
+    "sctl",
+    "sl2"
+  ],
+  "elev": [
+    "aetr",
+    "sctl",
+    "sl2",
+    "sld"
+  ],
+  "thr": [
+    "aetr",
+    "loec"
+  ],
+  "rudd": [
+    "aetr",
+    "sctl"
+  ],
+  "flap": [
+    "aetr",
+    "auxf"
+  ],
+  "steer": [
+    "aetr"
+  ],
+  "ss": [
+    "aetr",
+    "mav",
+    "mavc",
+    "nkf4",
+    "tsit",
+    "xkf4",
+    "xkfs"
+  ],
+  "roll": [
+    "ahr2",
+    "ang",
+    "att",
+    "auxf",
+    "ctun",
+    "dcm",
+    "eahr",
+    "ilb7",
+    "mnt",
+    "nkf1",
+    "sim",
+    "var",
+    "vnat",
+    "xkf1"
+  ],
+  "pitch": [
+    "ahr2",
+    "ang",
+    "att",
+    "auxf",
+    "ctun",
+    "dcm",
+    "eahr",
+    "ilb7",
+    "mnt",
+    "nkf1",
+    "sim",
+    "vnat",
+    "xkf1"
+  ],
+  "yaw": [
+    "ahr2",
+    "ang",
+    "att",
+    "auxf",
+    "dcm",
+    "eahr",
+    "gps",
+    "ilb7",
+    "nkf1",
+    "oabr",
+    "sim",
+    "vnat",
+    "xkf1"
+  ],
+  "q1": [
+    "ahr2",
+    "nkq",
+    "reph",
+    "sim",
+    "vnat",
+    "vstb",
+    "xkq"
+  ],
+  "q2": [
+    "ahr2",
+    "nkq",
+    "reph",
+    "sim",
+    "vnat",
+    "vstb",
+    "xkq"
+  ],
+  "q3": [
+    "ahr2",
+    "nkq",
+    "reph",
+    "sim",
+    "vnat",
+    "vstb",
+    "xkq"
+  ],
+  "q4": [
+    "ahr2",
+    "nkq",
+    "reph",
+    "sim",
+    "vnat",
+    "vstb",
+    "xkq"
+  ],
+  "us": [
+    "ais1",
+    "ais4",
+    "ais5"
+  ],
+  "typ": [
+    "ais1",
+    "ais5"
+  ],
+  "rep": [
+    "ais1",
+    "ais4",
+    "ais5"
+  ],
+  "mmsi": [
+    "ais1",
+    "ais4",
+    "ais5"
+  ],
+  "nav": [
+    "ais1"
+  ],
+  "rot": [
+    "ais1"
+  ],
+  "sog": [
+    "ais1"
+  ],
+  "pos": [
+    "ais1",
+    "auxf",
+    "csrv",
+    "eahv",
+    "smvz"
+  ],
+  "lon": [
+    "ais1",
+    "ais4",
+    "eahr",
+    "foll",
+    "oavg",
+    "rgpj",
+    "rso2",
+    "rso3",
+    "vnkf"
+  ],
+  "cog": [
+    "ais1"
+  ],
+  "hed": [
+    "ais1"
+  ],
+  "sec": [
+    "ais1"
+  ],
+  "man": [
+    "ais1"
+  ],
+  "raim": [
+    "ais1",
+    "ais4"
+  ],
+  "rad": [
+    "ais1",
+    "ais4"
+  ],
+  "year": [
+    "ais4"
+  ],
+  "mth": [
+    "ais4"
+  ],
+  "day": [
+    "ais4",
+    "rboh",
+    "risi"
+  ],
+  "h": [
+    "ais4",
+    "arsp",
+    "baro",
+    "bat",
+    "rasi",
+    "rbci",
+    "rbri",
+    "rmgi",
+    "rpm",
+    "rvoh",
+    "tecs"
+  ],
+  "m": [
+    "ais4",
+    "smgc"
+  ],
+  "s": [
+    "ais4",
+    "mag"
+  ],
+  "fix": [
+    "ais4",
+    "ais5",
+    "nkf5",
+    "xkf5"
+  ],
+  "epfd": [
+    "ais4"
+  ],
+  "ver": [
+    "ais5"
+  ],
+  "imo": [
+    "ais5"
+  ],
+  "cal": [
+    "ais5"
+  ],
+  "nam": [
+    "ais5"
+  ],
+  "bow": [
+    "ais5"
+  ],
+  "stn": [
+    "ais5"
+  ],
+  "prt": [
+    "ais5"
+  ],
+  "str": [
+    "ais5"
+  ],
+  "dght": [
+    "ais5"
+  ],
+  "dst": [
+    "ais5"
+  ],
+  "dte": [
+    "ais5"
+  ],
+  "num": [
+    "aisr",
+    "ofca"
+  ],
+  "total": [
+    "aisr",
+    "stak"
+  ],
+  "id": [
+    "aisr",
+    "cafd",
+    "canf",
+    "csrv",
+    "ev",
+    "ftn2",
+    "ftn3",
+    "gpyw",
+    "hygr",
+    "mult",
+    "nkf0",
+    "smvz",
+    "stak",
+    "unit",
+    "xkf0"
+  ],
+  "payload": [
+    "aisr"
+  ],
+  "desroll": [
+    "ang",
+    "att"
+  ],
+  "despitch": [
+    "ang",
+    "att"
+  ],
+  "desyaw": [
+    "ang",
+    "att"
+  ],
+  "dt": [
+    "ang",
+    "rboh",
+    "rwoh",
+    "viso"
+  ],
+  "aoa": [
+    "aoa",
+    "sl2",
+    "sld"
+  ],
+  "ssa": [
+    "aoa",
+    "sl2"
+  ],
+  "armstate": [
+    "arm"
+  ],
+  "armchecks": [
+    "arm"
+  ],
+  "all": [
+    "arm"
+  ],
+  "baro": [
+    "arm",
+    "err"
+  ],
+  "compass": [
+    "arm",
+    "err"
+  ],
+  "gps": [
+    "arm",
+    "err",
+    "nkf4",
+    "xkf4"
+  ],
+  "ins": [
+    "arm"
+  ],
+  "parameters": [
+    "arm"
+  ],
+  "rc": [
+    "arm",
+    "auxf"
+  ],
+  "voltage": [
+    "arm"
+  ],
+  "battery": [
+    "arm"
+  ],
+  "airspeed": [
+    "arm",
+    "arsp",
+    "rwa2",
+    "rwa3"
+  ],
+  "logging": [
+    "arm"
+  ],
+  "switch": [
+    "arm"
+  ],
+  "gps_config": [
+    "arm"
+  ],
+  "system": [
+    "arm"
+  ],
+  "mission": [
+    "arm",
+    "auxf"
+  ],
+  "rangefinder": [
+    "arm",
+    "auxf"
+  ],
+  "camera": [
+    "arm"
+  ],
+  "aux_auth": [
+    "arm"
+  ],
+  "vision": [
+    "arm"
+  ],
+  "fft": [
+    "arm",
+    "tec3"
+  ],
+  "osd": [
+    "arm"
+  ],
+  "forced": [
+    "arm",
+    "qtun"
+  ],
+  "method": [
+    "arm"
+  ],
+  "rudder": [
+    "arm"
+  ],
+  "mavlink": [
+    "arm",
+    "auxf"
+  ],
+  "auxswitch": [
+    "arm"
+  ],
+  "motortest": [
+    "arm"
+  ],
+  "scripting": [
+    "arm",
+    "auxf",
+    "mode"
+  ],
+  "termination": [
+    "arm"
+  ],
+  "cpufailsafe": [
+    "arm"
+  ],
+  "batteryfailsafe": [
+    "arm"
+  ],
+  "solopausewhenlanded": [
+    "arm"
+  ],
+  "afs": [
+    "arm"
+  ],
+  "adsbcollisionaction": [
+    "arm"
+  ],
+  "parachute_release": [
+    "arm",
+    "auxf"
+  ],
+  "crash": [
+    "arm",
+    "stat"
+  ],
+  "landed": [
+    "arm"
+  ],
+  "missionexit": [
+    "arm"
+  ],
+  "fencebreach": [
+    "arm"
+  ],
+  "radiofailsafe": [
+    "arm"
+  ],
+  "disarmdelay": [
+    "arm"
+  ],
+  "gcsfailsafe": [
+    "arm"
+  ],
+  "terrrainfailsafe": [
+    "arm"
+  ],
+  "failsafe_action_terminate": [
+    "arm"
+  ],
+  "terrainfailsafe": [
+    "arm"
+  ],
+  "motordetectdone": [
+    "arm"
+  ],
+  "badflowofcontrol": [
+    "arm"
+  ],
+  "ekffailsafe": [
+    "arm"
+  ],
+  "gcs_failsafe_surfacefailed": [
+    "arm"
+  ],
+  "gcs_failsafe_holdfailed": [
+    "arm"
+  ],
+  "takeofftimeout": [
+    "arm"
+  ],
+  "autolanded": [
+    "arm"
+  ],
+  "pilot_input_failsafe": [
+    "arm"
+  ],
+  "toymodelandthrottle": [
+    "arm"
+  ],
+  "toymodelandforce": [
+    "arm"
+  ],
+  "landing": [
+    "arm"
+  ],
+  "deadreckon_failsafe": [
+    "arm",
+    "mode"
+  ],
+  "blackbox": [
+    "arm"
+  ],
+  "dds": [
+    "arm"
+  ],
+  "auto_arm_once": [
+    "arm"
+  ],
+  "unknown": [
+    "arm",
+    "mode"
+  ],
+  "diffpress": [
+    "arsp"
+  ],
+  "temp": [
+    "arsp",
+    "baro",
+    "bat",
+    "esc",
+    "heat",
+    "hygr",
+    "ilb3",
+    "tclr",
+    "temp",
+    "vnim",
+    "winc"
+  ],
+  "rawpress": [
+    "arsp"
+  ],
+  "offset": [
+    "arsp",
+    "baro",
+    "file",
+    "nkf5",
+    "xkf5"
+  ],
+  "u": [
+    "arsp",
+    "gps"
+  ],
+  "hp": [
+    "arsp"
+  ],
+  "tr": [
+    "arsp",
+    "nkf0",
+    "sids",
+    "xkf0"
+  ],
+  "pri": [
+    "arsp",
+    "stak"
+  ],
+  "tus": [
+    "asm1"
+  ],
+  "r": [
+    "asm1",
+    "cam",
+    "cans",
+    "jsn1",
+    "pm",
+    "rate",
+    "rwoh",
+    "smoo",
+    "trig",
+    "visp"
+  ],
+  "p": [
+    "asm1",
+    "atrp",
+    "cam",
+    "dstl",
+    "heat",
+    "icmb",
+    "jsn1",
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy",
+    "rate",
+    "smoo",
+    "tec4",
+    "trig",
+    "visp"
+  ],
+  "y": [
+    "asm1",
+    "cam",
+    "isbd",
+    "jsn1",
+    "mavc",
+    "rate",
+    "rgpj",
+    "smoo",
+    "tclr",
+    "trig",
+    "visp"
+  ],
+  "gx": [
+    "asm1",
+    "jsn1",
+    "nkf1",
+    "rofh",
+    "sidd",
+    "vnim",
+    "xkf1"
+  ],
+  "gy": [
+    "asm1",
+    "jsn1",
+    "nkf1",
+    "rofh",
+    "sidd",
+    "vnim",
+    "xkf1"
+  ],
+  "gz": [
+    "asm1",
+    "jsn1",
+    "nkf1",
+    "sidd",
+    "vnim",
+    "xkf1"
+  ],
+  "ax": [
+    "asm2",
+    "jsn2",
+    "sba1",
+    "sidd",
+    "sids",
+    "vnim",
+    "xkf2"
+  ],
+  "ay": [
+    "asm2",
+    "jsn2",
+    "sba1",
+    "sidd",
+    "vnim",
+    "xkf2"
+  ],
+  "az": [
+    "asm2",
+    "jsn2",
+    "sba1",
+    "sidd",
+    "sl2",
+    "vnim",
+    "xkf2"
+  ],
+  "vx": [
+    "asm2",
+    "pl",
+    "revh",
+    "rgpj",
+    "visv"
+  ],
+  "vy": [
+    "asm2",
+    "pl",
+    "revh",
+    "rgpj",
+    "visv"
+  ],
+  "vz": [
+    "asm2",
+    "gps",
+    "ilb4",
+    "revh",
+    "rgpj",
+    "visv"
+  ],
+  "px": [
+    "asm2",
+    "pl",
+    "rbch",
+    "rbci",
+    "reph",
+    "rofh",
+    "rrni",
+    "rwoh",
+    "visp"
+  ],
+  "py": [
+    "asm2",
+    "pl",
+    "rbch",
+    "rbci",
+    "reph",
+    "rofh",
+    "rrni",
+    "rwoh",
+    "visp"
+  ],
+  "pz": [
+    "asm2",
+    "rbch",
+    "rbci",
+    "reph",
+    "rofh",
+    "rrni",
+    "rwoh",
+    "visp"
+  ],
+  "sd": [
+    "asm2"
+  ],
+  "angle": [
+    "atde",
+    "qtun"
+  ],
+  "rate": [
+    "atde"
+  ],
+  "axis": [
+    "atrp",
+    "atun",
+    "ofca"
+  ],
+  "state": [
+    "atrp",
+    "iefc",
+    "oadj",
+    "qpos",
+    "rely",
+    "sa",
+    "trms"
+  ],
+  "sur": [
+    "atrp"
+  ],
+  "pslew": [
+    "atrp"
+  ],
+  "dslew": [
+    "atrp"
+  ],
+  "ff0": [
+    "atrp"
+  ],
+  "ff": [
+    "atrp",
+    "loeg",
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy"
+  ],
+  "d": [
+    "atrp",
+    "dstl",
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy",
+    "rboh",
+    "reph",
+    "revh",
+    "srtl"
+  ],
+  "action": [
+    "atrp",
+    "srtl"
+  ],
+  "rmax": [
+    "atrp"
+  ],
+  "tau": [
+    "atrp"
+  ],
+  "angpscx": [
+    "atsc"
+  ],
+  "angpscy": [
+    "atsc"
+  ],
+  "angpscz": [
+    "atsc"
+  ],
+  "pdscx": [
+    "atsc"
+  ],
+  "pdscy": [
+    "atsc"
+  ],
+  "pdscz": [
+    "atsc"
+  ],
+  "aekf": [
+    "att"
+  ],
+  "tunestep": [
+    "atun"
+  ],
+  "targ": [
+    "atun",
+    "heat",
+    "sidd"
+  ],
+  "min": [
+    "atun",
+    "ver"
+  ],
+  "max": [
+    "atun"
+  ],
+  "rp": [
+    "atun"
+  ],
+  "rd": [
+    "atun"
+  ],
+  "sp": [
+    "atun",
+    "nkf4",
+    "tecs",
+    "xkf4"
+  ],
+  "ddt": [
+    "atun"
+  ],
+  "function": [
+    "auxf"
+  ],
+  "do_nothing": [
+    "auxf"
+  ],
+  "flip": [
+    "auxf",
+    "err"
+  ],
+  "simple_mode": [
+    "auxf"
+  ],
+  "rtl": [
+    "auxf"
+  ],
+  "save_trim": [
+    "auxf",
+    "ev"
+  ],
+  "save_wp": [
+    "auxf"
+  ],
+  "camera_trigger": [
+    "auxf"
+  ],
+  "fence": [
+    "auxf"
+  ],
+  "resettoarmedyaw": [
+    "auxf"
+  ],
+  "supersimple_mode": [
+    "auxf"
+  ],
+  "acro_trainer": [
+    "auxf"
+  ],
+  "sprayer": [
+    "auxf"
+  ],
+  "auto": [
+    "auxf"
+  ],
+  "autotune_mode": [
+    "auxf"
+  ],
+  "land": [
+    "auxf",
+    "slup"
+  ],
+  "gripper": [
+    "auxf"
+  ],
+  "parachute_enable": [
+    "auxf"
+  ],
+  "parachute_3pos": [
+    "auxf"
+  ],
+  "mission_reset": [
+    "auxf"
+  ],
+  "attcon_feedfwd": [
+    "auxf"
+  ],
+  "attcon_accel_lim": [
+    "auxf"
+  ],
+  "retract_mount1": [
+    "auxf"
+  ],
+  "relay": [
+    "auxf"
+  ],
+  "landing_gear": [
+    "auxf"
+  ],
+  "lost_vehicle_sound": [
+    "auxf"
+  ],
+  "motor_estop": [
+    "auxf"
+  ],
+  "motor_interlock": [
+    "auxf"
+  ],
+  "brake": [
+    "auxf"
+  ],
+  "relay2": [
+    "auxf"
+  ],
+  "relay3": [
+    "auxf"
+  ],
+  "relay4": [
+    "auxf"
+  ],
+  "throw": [
+    "auxf"
+  ],
+  "avoid_adsb": [
+    "auxf"
+  ],
+  "precision_loiter": [
+    "auxf"
+  ],
+  "avoid_proximity": [
+    "auxf"
+  ],
+  "armdisarm_unused": [
+    "auxf"
+  ],
+  "smart_rtl": [
+    "auxf"
+  ],
+  "inverted": [
+    "auxf"
+  ],
+  "winch_enable": [
+    "auxf"
+  ],
+  "winch_control": [
+    "auxf"
+  ],
+  "rc_override_enable": [
+    "auxf"
+  ],
+  "user_func1": [
+    "auxf"
+  ],
+  "user_func2": [
+    "auxf"
+  ],
+  "user_func3": [
+    "auxf"
+  ],
+  "learn_cruise": [
+    "auxf"
+  ],
+  "manual": [
+    "auxf"
+  ],
+  "acro": [
+    "auxf"
+  ],
+  "steering": [
+    "auxf"
+  ],
+  "hold": [
+    "auxf"
+  ],
+  "guided": [
+    "auxf"
+  ],
+  "loiter": [
+    "auxf",
+    "dstl"
+  ],
+  "follow": [
+    "auxf"
+  ],
+  "clear_wp": [
+    "auxf"
+  ],
+  "simple": [
+    "auxf"
+  ],
+  "zigzag": [
+    "auxf"
+  ],
+  "zigzag_savewp": [
+    "auxf"
+  ],
+  "compass_learn": [
+    "auxf"
+  ],
+  "sailboat_tack": [
+    "auxf"
+  ],
+  "reverse_throttle": [
+    "auxf"
+  ],
+  "gps_disable": [
+    "auxf"
+  ],
+  "relay5": [
+    "auxf"
+  ],
+  "relay6": [
+    "auxf"
+  ],
+  "stabilize": [
+    "auxf"
+  ],
+  "poshold": [
+    "auxf"
+  ],
+  "althold": [
+    "auxf"
+  ],
+  "flowhold": [
+    "auxf"
+  ],
+  "circle": [
+    "auxf"
+  ],
+  "drift": [
+    "auxf"
+  ],
+  "sailboat_motor_3pos": [
+    "auxf"
+  ],
+  "surface_tracking": [
+    "auxf"
+  ],
+  "standby": [
+    "auxf"
+  ],
+  "takeoff": [
+    "auxf"
+  ],
+  "runcam_control": [
+    "auxf"
+  ],
+  "runcam_osd_control": [
+    "auxf"
+  ],
+  "visodom_align": [
+    "auxf"
+  ],
+  "disarm": [
+    "auxf"
+  ],
+  "q_assist": [
+    "auxf"
+  ],
+  "zigzag_auto": [
+    "auxf"
+  ],
+  "airmode": [
+    "auxf"
+  ],
+  "generator": [
+    "auxf"
+  ],
+  "ter_disable": [
+    "auxf"
+  ],
+  "crow_select": [
+    "auxf"
+  ],
+  "soaring": [
+    "auxf"
+  ],
+  "landing_flare": [
+    "auxf"
+  ],
+  "ekf_source_set": [
+    "auxf"
+  ],
+  "arspd_calibrate": [
+    "auxf"
+  ],
+  "fbwa": [
+    "auxf"
+  ],
+  "relocate_mission": [
+    "auxf"
+  ],
+  "vtx_power": [
+    "auxf"
+  ],
+  "fbwa_taildragger": [
+    "auxf"
+  ],
+  "mode_switch_reset": [
+    "auxf"
+  ],
+  "wind_vane_dir_ofsset": [
+    "auxf"
+  ],
+  "training": [
+    "auxf"
+  ],
+  "auto_rtl": [
+    "auxf"
+  ],
+  "kill_imu1": [
+    "auxf"
+  ],
+  "kill_imu2": [
+    "auxf"
+  ],
+  "cam_mode_toggle": [
+    "auxf"
+  ],
+  "ekf_lane_switch": [
+    "auxf"
+  ],
+  "ekf_yaw_reset": [
+    "auxf",
+    "ev"
+  ],
+  "gps_disable_yaw": [
+    "auxf"
+  ],
+  "disable_airspeed_use": [
+    "auxf"
+  ],
+  "fw_autotune": [
+    "auxf"
+  ],
+  "qrtl": [
+    "auxf"
+  ],
+  "custom_controller": [
+    "auxf"
+  ],
+  "kill_imu3": [
+    "auxf"
+  ],
+  "loweheiser_starter": [
+    "auxf"
+  ],
+  "ahrs_type": [
+    "auxf"
+  ],
+  "retract_mount2": [
+    "auxf"
+  ],
+  "cruise": [
+    "auxf"
+  ],
+  "turtle": [
+    "auxf"
+  ],
+  "simple_heading_reset": [
+    "auxf"
+  ],
+  "armdisarm": [
+    "auxf"
+  ],
+  "armdisarm_airmode": [
+    "auxf"
+  ],
+  "trim_to_current_servo_rc": [
+    "auxf"
+  ],
+  "torqeedo_clear_err": [
+    "auxf"
+  ],
+  "emergency_landing_en": [
+    "auxf"
+  ],
+  "optflow_cal": [
+    "auxf"
+  ],
+  "forceflying": [
+    "auxf"
+  ],
+  "weather_vane_enable": [
+    "auxf"
+  ],
+  "turbine_start": [
+    "auxf"
+  ],
+  "fft_notch_tune": [
+    "auxf"
+  ],
+  "mount_lock": [
+    "auxf"
+  ],
+  "log_pause": [
+    "auxf"
+  ],
+  "arm_emergency_stop": [
+    "auxf"
+  ],
+  "camera_rec_video": [
+    "auxf"
+  ],
+  "camera_zoom": [
+    "auxf"
+  ],
+  "camera_manual_focus": [
+    "auxf"
+  ],
+  "camera_auto_focus": [
+    "auxf"
+  ],
+  "qstabilize": [
+    "auxf"
+  ],
+  "mag_cal": [
+    "auxf"
+  ],
+  "battery_mppt_enable": [
+    "auxf"
+  ],
+  "plane_auto_landing_abort": [
+    "auxf"
+  ],
+  "camera_image_tracking": [
+    "auxf"
+  ],
+  "camera_lens": [
+    "auxf"
+  ],
+  "vfwd_thr_override": [
+    "auxf"
+  ],
+  "mount_lrf_enable": [
+    "auxf"
+  ],
+  "flightmode_pause": [
+    "auxf"
+  ],
+  "ice_start_stop": [
+    "auxf"
+  ],
+  "autotune_test_gains": [
+    "auxf"
+  ],
+  "quicktune": [
+    "auxf"
+  ],
+  "ahrs_auto_trim": [
+    "auxf"
+  ],
+  "autoland": [
+    "auxf"
+  ],
+  "systemid": [
+    "auxf"
+  ],
+  "throttle": [
+    "auxf"
+  ],
+  "mainsail": [
+    "auxf"
+  ],
+  "fwd_thr": [
+    "auxf"
+  ],
+  "airbrake": [
+    "auxf"
+  ],
+  "walking_height": [
+    "auxf"
+  ],
+  "mount1_roll": [
+    "auxf"
+  ],
+  "mount1_pitch": [
+    "auxf"
+  ],
+  "mount1_yaw": [
+    "auxf"
+  ],
+  "mount2_roll": [
+    "auxf"
+  ],
+  "mount2_pitch": [
+    "auxf"
+  ],
+  "mount2_yaw": [
+    "auxf"
+  ],
+  "loweheiser_throttle": [
+    "auxf"
+  ],
+  "transmitter_tuning": [
+    "auxf"
+  ],
+  "scripting_1": [
+    "auxf"
+  ],
+  "scripting_2": [
+    "auxf"
+  ],
+  "scripting_3": [
+    "auxf"
+  ],
+  "scripting_4": [
+    "auxf"
+  ],
+  "scripting_5": [
+    "auxf"
+  ],
+  "scripting_6": [
+    "auxf"
+  ],
+  "scripting_7": [
+    "auxf"
+  ],
+  "scripting_8": [
+    "auxf"
+  ],
+  "scripting_9": [
+    "auxf"
+  ],
+  "scripting_10": [
+    "auxf"
+  ],
+  "scripting_11": [
+    "auxf"
+  ],
+  "scripting_12": [
+    "auxf"
+  ],
+  "scripting_13": [
+    "auxf"
+  ],
+  "scripting_14": [
+    "auxf"
+  ],
+  "scripting_15": [
+    "auxf"
+  ],
+  "scripting_16": [
+    "auxf"
+  ],
+  "aux_function_max": [
+    "auxf"
+  ],
+  "low": [
+    "auxf"
+  ],
+  "middle": [
+    "auxf"
+  ],
+  "high": [
+    "auxf"
+  ],
+  "source": [
+    "auxf"
+  ],
+  "init": [
+    "auxf"
+  ],
+  "button": [
+    "auxf"
+  ],
+  "index": [
+    "auxf"
+  ],
+  "result": [
+    "auxf"
+  ],
+  "dynprx": [
+    "bard"
+  ],
+  "dynpry": [
+    "bard"
+  ],
+  "dynprz": [
+    "bard"
+  ],
+  "altamsl": [
+    "baro"
+  ],
+  "press": [
+    "baro",
+    "ilb3"
+  ],
+  "crt": [
+    "baro",
+    "qtun"
+  ],
+  "sms": [
+    "baro",
+    "gpa"
+  ],
+  "gndtemp": [
+    "baro"
+  ],
+  "cpress": [
+    "baro"
+  ],
+  "inst": [
+    "bat",
+    "ecyl"
+  ],
+  "volt": [
+    "bat",
+    "bcl",
+    "esc",
+    "trmp"
+  ],
+  "voltr": [
+    "bat"
+  ],
+  "curr": [
+    "bat",
+    "esc"
+  ],
+  "currtot": [
+    "bat"
+  ],
+  "enrgtot": [
+    "bat"
+  ],
+  "res": [
+    "bat",
+    "mavc"
+  ],
+  "rempct": [
+    "bat"
+  ],
+  "sh": [
+    "bat",
+    "nkf4",
+    "xkf4"
+  ],
+  "instance": [
+    "bcl",
+    "bcl2",
+    "edt2",
+    "esc",
+    "escx",
+    "isbh",
+    "rely",
+    "rfnd",
+    "slv1",
+    "slv2",
+    "temp",
+    "ubx1",
+    "ubx2"
+  ],
+  "v1": [
+    "bcl"
+  ],
+  "v2": [
+    "bcl"
+  ],
+  "v3": [
+    "bcl"
+  ],
+  "v4": [
+    "bcl"
+  ],
+  "v5": [
+    "bcl"
+  ],
+  "v6": [
+    "bcl"
+  ],
+  "v7": [
+    "bcl"
+  ],
+  "v8": [
+    "bcl"
+  ],
+  "v9": [
+    "bcl"
+  ],
+  "v10": [
+    "bcl",
+    "xkv1"
+  ],
+  "v11": [
+    "bcl",
+    "xkv1"
+  ],
+  "v12": [
+    "bcl",
+    "xkv2"
+  ],
+  "v13": [
+    "bcl2",
+    "xkv2"
+  ],
+  "v14": [
+    "bcl2",
+    "xkv2"
+  ],
+  "health": [
+    "bcn",
+    "mag",
+    "trqd"
+  ],
+  "cnt": [
+    "bcn",
+    "nkt",
+    "xkt"
+  ],
+  "d0": [
+    "bcn",
+    "cafd",
+    "prx",
+    "prxr"
+  ],
+  "d1": [
+    "bcn",
+    "cafd"
+  ],
+  "d2": [
+    "bcn",
+    "cafd"
+  ],
+  "d3": [
+    "bcn",
+    "cafd"
+  ],
+  "posx": [
+    "bcn"
+  ],
+  "posy": [
+    "bcn"
+  ],
+  "posz": [
+    "bcn"
+  ],
+  "bus": [
+    "cafd",
+    "canf",
+    "magh"
+  ],
+  "dlc": [
+    "cafd",
+    "canf"
+  ],
+  "d4": [
+    "cafd"
+  ],
+  "d5": [
+    "cafd"
+  ],
+  "d6": [
+    "cafd"
+  ],
+  "d7": [
+    "cafd"
+  ],
+  "img": [
+    "cam",
+    "trig"
+  ],
+  "gpstime": [
+    "cam",
+    "trig"
+  ],
+  "gpsweek": [
+    "cam",
+    "trig"
+  ],
+  "relalt": [
+    "cam",
+    "trig"
+  ],
+  "gpsalt": [
+    "cam",
+    "trig"
+  ],
+  "driver": [
+    "cand"
+  ],
+  "nodeid": [
+    "cand"
+  ],
+  "uid1": [
+    "cand"
+  ],
+  "uid2": [
+    "cand"
+  ],
+  "name": [
+    "cand",
+    "fmt",
+    "nvf",
+    "parm",
+    "scr",
+    "stak"
+  ],
+  "major": [
+    "cand"
+  ],
+  "minor": [
+    "cand"
+  ],
+  "version": [
+    "cand",
+    "oavg"
+  ],
+  "b0": [
+    "canf"
+  ],
+  "b1": [
+    "canf"
+  ],
+  "b2": [
+    "canf"
+  ],
+  "b3": [
+    "canf"
+  ],
+  "b4": [
+    "canf"
+  ],
+  "b5": [
+    "canf"
+  ],
+  "b6": [
+    "canf"
+  ],
+  "b7": [
+    "canf"
+  ],
+  "t": [
+    "cans",
+    "icmb",
+    "imu"
+  ],
+  "trq": [
+    "cans"
+  ],
+  "trej": [
+    "cans"
+  ],
+  "tov": [
+    "cans"
+  ],
+  "tto": [
+    "cans"
+  ],
+  "tab": [
+    "cans"
+  ],
+  "rov": [
+    "cans"
+  ],
+  "rer": [
+    "cans"
+  ],
+  "bo": [
+    "cans"
+  ],
+  "etx": [
+    "cans"
+  ],
+  "stx": [
+    "cans"
+  ],
+  "ftx": [
+    "cans",
+    "ftn1"
+  ],
+  "type": [
+    "cc",
+    "fmt",
+    "fnce",
+    "isbh",
+    "oabr",
+    "orgn",
+    "rey3"
+  ],
+  "cont_none": [
+    "cc"
+  ],
+  "cont_empty": [
+    "cc"
+  ],
+  "cont_pid": [
+    "cc"
+  ],
+  "act": [
+    "cc",
+    "oabr",
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy"
+  ],
+  "ctot": [
+    "cmd",
+    "esc",
+    "mise"
+  ],
+  "cnum": [
+    "cmd",
+    "mise"
+  ],
+  "cid": [
+    "cmd",
+    "mise"
+  ],
+  "prm1": [
+    "cmd",
+    "mise"
+  ],
+  "prm2": [
+    "cmd",
+    "mise"
+  ],
+  "prm3": [
+    "cmd",
+    "mise"
+  ],
+  "prm4": [
+    "cmd",
+    "mise"
+  ],
+  "frame": [
+    "cmd",
+    "mise"
+  ],
+  "force": [
+    "csrv"
+  ],
+  "speed": [
+    "csrv",
+    "qtun"
+  ],
+  "pow": [
+    "csrv",
+    "trmp",
+    "trst"
+  ],
+  "poscmd": [
+    "csrv"
+  ],
+  "v": [
+    "csrv",
+    "smvz"
+  ],
+  "a": [
+    "csrv",
+    "rate",
+    "smvz"
+  ],
+  "mott": [
+    "csrv",
+    "smvz"
+  ],
+  "pcbt": [
+    "csrv",
+    "smvz"
+  ],
+  "err": [
+    "csrv",
+    "esc",
+    "ie24",
+    "oadj",
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy",
+    "trms",
+    "trst"
+  ],
+  "navroll": [
+    "ctun"
+  ],
+  "navpitch": [
+    "ctun"
+  ],
+  "tho": [
+    "ctun",
+    "efis",
+    "qtun"
+  ],
+  "rdo": [
+    "ctun"
+  ],
+  "thd": [
+    "ctun"
+  ],
+  "as": [
+    "ctun",
+    "sim2"
+  ],
+  "ast": [
+    "ctun",
+    "qtun"
+  ],
+  "no_new_estimate": [
+    "ctun"
+  ],
+  "airspeed_sensor": [
+    "ctun"
+  ],
+  "dcm_synthetic": [
+    "ctun"
+  ],
+  "ekf3_synthetic": [
+    "ctun"
+  ],
+  "sim": [
+    "ctun"
+  ],
+  "sas": [
+    "ctun"
+  ],
+  "e2t": [
+    "ctun",
+    "rfrn"
+  ],
+  "gu": [
+    "ctun"
+  ],
+  "errrp": [
+    "dcm",
+    "nkf4",
+    "xkf4"
+  ],
+  "erryaw": [
+    "dcm"
+  ],
+  "vwn": [
+    "dcm",
+    "ilb3",
+    "nkf2",
+    "xkf2"
+  ],
+  "vwe": [
+    "dcm",
+    "ilb3",
+    "nkf2",
+    "xkf2"
+  ],
+  "vwd": [
+    "dcm",
+    "ilb3"
+  ],
+  "n": [
+    "dms",
+    "isbd",
+    "isbh",
+    "srtl"
+  ],
+  "dp": [
+    "dms",
+    "dsf",
+    "oabr"
+  ],
+  "rt": [
+    "dms",
+    "reph"
+  ],
+  "rs": [
+    "dms"
+  ],
+  "fa": [
+    "dms",
+    "wdog"
+  ],
+  "fmn": [
+    "dms",
+    "dsf"
+  ],
+  "fmx": [
+    "dms",
+    "dsf"
+  ],
+  "pa": [
+    "dms",
+    "rish"
+  ],
+  "pmn": [
+    "dms"
+  ],
+  "pmx": [
+    "dms"
+  ],
+  "sa": [
+    "dms",
+    "rgpj"
+  ],
+  "smn": [
+    "dms"
+  ],
+  "smx": [
+    "dms"
+  ],
+  "blk": [
+    "dsf"
+  ],
+  "bytes": [
+    "dsf"
+  ],
+  "fav": [
+    "dsf"
+  ],
+  "stg": [
+    "dstl"
+  ],
+  "thdg": [
+    "dstl"
+  ],
+  "xt": [
+    "dstl",
+    "ntun"
+  ],
+  "travel": [
+    "dstl"
+  ],
+  "l1i": [
+    "dstl"
+  ],
+  "des": [
+    "dstl"
+  ],
+  "vn": [
+    "eahr",
+    "ilb7",
+    "jsn2",
+    "nkf1",
+    "pscn",
+    "sim2",
+    "sitl",
+    "slup",
+    "xkf1"
+  ],
+  "ve": [
+    "eahr",
+    "ilb7",
+    "jsn2",
+    "nkf1",
+    "psce",
+    "sim2",
+    "sitl",
+    "slup",
+    "xkf1"
+  ],
+  "vd": [
+    "eahr",
+    "ilb7",
+    "jsn2",
+    "nkf1",
+    "pscd",
+    "sim2",
+    "sitl",
+    "slup",
+    "xkf1"
+  ],
+  "flg": [
+    "eahr"
+  ],
+  "vel": [
+    "eahv"
+  ],
+  "hgt": [
+    "eahv"
+  ],
+  "magx": [
+    "eahv",
+    "ilb2",
+    "mag"
+  ],
+  "magy": [
+    "eahv",
+    "ilb2",
+    "mag"
+  ],
+  "magz": [
+    "eahv",
+    "ilb2",
+    "mag"
+  ],
+  "tas": [
+    "eahv",
+    "ilb3",
+    "sld"
+  ],
+  "ignt": [
+    "ecyl"
+  ],
+  "injt": [
+    "ecyl"
+  ],
+  "cht": [
+    "ecyl",
+    "loeg"
+  ],
+  "egt": [
+    "ecyl"
+  ],
+  "lambda": [
+    "ecyl"
+  ],
+  "cht2": [
+    "ecyl"
+  ],
+  "egt2": [
+    "ecyl"
+  ],
+  "idx": [
+    "ecyl",
+    "efi",
+    "efi2",
+    "xkf2"
+  ],
+  "stress": [
+    "edt2"
+  ],
+  "maxstress": [
+    "edt2"
+  ],
+  "status": [
+    "edt2",
+    "gps",
+    "rrni",
+    "terr"
+  ],
+  "has_stress_data": [
+    "edt2"
+  ],
+  "has_status_data": [
+    "edt2"
+  ],
+  "alert_bit": [
+    "edt2"
+  ],
+  "warning_bit": [
+    "edt2"
+  ],
+  "error_bit": [
+    "edt2"
+  ],
+  "lp": [
+    "efi"
+  ],
+  "rpm": [
+    "efi",
+    "esc",
+    "loeg",
+    "rich",
+    "rpm",
+    "trmp",
+    "trst"
+  ],
+  "sdt": [
+    "efi"
+  ],
+  "atm": [
+    "efi"
+  ],
+  "imp": [
+    "efi"
+  ],
+  "imt": [
+    "efi"
+  ],
+  "ect": [
+    "efi"
+  ],
+  "oilp": [
+    "efi"
+  ],
+  "oilt": [
+    "efi"
+  ],
+  "fp": [
+    "efi",
+    "wdog"
+  ],
+  "fcr": [
+    "efi"
+  ],
+  "cfv": [
+    "efi"
+  ],
+  "tps": [
+    "efi",
+    "loeg"
+  ],
+  "healthy": [
+    "efi2"
+  ],
+  "es": [
+    "efi2",
+    "loec"
+  ],
+  "ge": [
+    "efi2"
+  ],
+  "cse": [
+    "efi2"
+  ],
+  "ts": [
+    "efi2",
+    "iomc",
+    "mavc",
+    "nkf4",
+    "rboh",
+    "rcda",
+    "reph",
+    "revh",
+    "rgpj",
+    "rsll",
+    "rwoh",
+    "tsit",
+    "xkf4"
+  ],
+  "fps": [
+    "efi2"
+  ],
+  "ops": [
+    "efi2"
+  ],
+  "ds": [
+    "efi2"
+  ],
+  "ms": [
+    "efi2"
+  ],
+  "debs": [
+    "efi2"
+  ],
+  "spu": [
+    "efi2"
+  ],
+  "eet": [
+    "efis"
+  ],
+  "cht_1_low": [
+    "efis"
+  ],
+  "cht_1_high": [
+    "efis"
+  ],
+  "cht_1_enrc_active": [
+    "efis"
+  ],
+  "cht_2_low": [
+    "efis"
+  ],
+  "cht_2_high": [
+    "efis"
+  ],
+  "cht_2_enrc_active": [
+    "efis"
+  ],
+  "egt_1_low": [
+    "efis"
+  ],
+  "egt_1_high": [
+    "efis"
+  ],
+  "egt_1_enrc_active": [
+    "efis"
+  ],
+  "egt_2_low": [
+    "efis"
+  ],
+  "egt_2_high": [
+    "efis"
+  ],
+  "egt_2_enrc_active": [
+    "efis"
+  ],
+  "flag": [
+    "efis",
+    "trse"
+  ],
+  "engine_temp_sensor_ok": [
+    "efis"
+  ],
+  "air_temp_sensor_ok": [
+    "efis"
+  ],
+  "air_pressure_sensor_ok": [
+    "efis"
+  ],
+  "throttle_sensor_ok": [
+    "efis"
+  ],
+  "crf": [
+    "efis"
+  ],
+  "akf": [
+    "efis"
+  ],
+  "up": [
+    "efis"
+  ],
+  "thm": [
+    "efis"
+  ],
+  "subsys": [
+    "err"
+  ],
+  "main": [
+    "err"
+  ],
+  "radio": [
+    "err"
+  ],
+  "optflow": [
+    "err"
+  ],
+  "failsafe_radio": [
+    "err"
+  ],
+  "failsafe_batt": [
+    "err"
+  ],
+  "failsafe_gps": [
+    "err"
+  ],
+  "failsafe_gcs": [
+    "err"
+  ],
+  "failsafe_fence": [
+    "err"
+  ],
+  "flight_mode": [
+    "err"
+  ],
+  "crash_check": [
+    "err"
+  ],
+  "autotune": [
+    "err"
+  ],
+  "parachutes": [
+    "err"
+  ],
+  "ekfcheck": [
+    "err"
+  ],
+  "failsafe_ekfinav": [
+    "err"
+  ],
+  "cpu": [
+    "err"
+  ],
+  "failsafe_adsb": [
+    "err"
+  ],
+  "terrain": [
+    "err"
+  ],
+  "navigation": [
+    "err"
+  ],
+  "failsafe_terrain": [
+    "err"
+  ],
+  "ekf_primary": [
+    "err"
+  ],
+  "thrust_loss_check": [
+    "err"
+  ],
+  "failsafe_sensors": [
+    "err"
+  ],
+  "failsafe_leak": [
+    "err"
+  ],
+  "pilot_input": [
+    "err"
+  ],
+  "failsafe_vibe": [
+    "err"
+  ],
+  "internal_error": [
+    "err"
+  ],
+  "failsafe_deadreckon": [
+    "err"
+  ],
+  "ecode": [
+    "err"
+  ],
+  "rawrpm": [
+    "esc"
+  ],
+  "mottemp": [
+    "esc"
+  ],
+  "inpct": [
+    "escx"
+  ],
+  "outpct": [
+    "escx"
+  ],
+  "flags": [
+    "escx",
+    "mav",
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy",
+    "powr",
+    "raly",
+    "rbch",
+    "rci2",
+    "rfrn",
+    "rgpi",
+    "risi",
+    "ubxt"
+  ],
+  "pwr": [
+    "escx"
+  ],
+  "armed": [
+    "ev",
+    "rfrn",
+    "stat"
+  ],
+  "disarmed": [
+    "ev"
+  ],
+  "auto_armed": [
+    "ev"
+  ],
+  "land_complete_maybe": [
+    "ev"
+  ],
+  "land_complete": [
+    "ev"
+  ],
+  "lost_gps": [
+    "ev"
+  ],
+  "flip_start": [
+    "ev"
+  ],
+  "flip_end": [
+    "ev"
+  ],
+  "set_home": [
+    "ev"
+  ],
+  "set_simple_on": [
+    "ev"
+  ],
+  "set_simple_off": [
+    "ev"
+  ],
+  "not_landed": [
+    "ev"
+  ],
+  "set_supersimple_on": [
+    "ev"
+  ],
+  "autotune_initialised": [
+    "ev"
+  ],
+  "autotune_off": [
+    "ev"
+  ],
+  "autotune_restart": [
+    "ev"
+  ],
+  "autotune_success": [
+    "ev"
+  ],
+  "autotune_failed": [
+    "ev"
+  ],
+  "autotune_reached_limit": [
+    "ev"
+  ],
+  "autotune_pilot_testing": [
+    "ev"
+  ],
+  "autotune_savedgains": [
+    "ev"
+  ],
+  "savewp_add_wp": [
+    "ev"
+  ],
+  "fence_enable": [
+    "ev"
+  ],
+  "fence_disable": [
+    "ev"
+  ],
+  "acro_trainer_off": [
+    "ev"
+  ],
+  "acro_trainer_leveling": [
+    "ev"
+  ],
+  "acro_trainer_limited": [
+    "ev"
+  ],
+  "gripper_grab": [
+    "ev"
+  ],
+  "gripper_release": [
+    "ev"
+  ],
+  "parachute_disabled": [
+    "ev"
+  ],
+  "parachute_enabled": [
+    "ev"
+  ],
+  "parachute_released": [
+    "ev"
+  ],
+  "landing_gear_deployed": [
+    "ev"
+  ],
+  "landing_gear_retracted": [
+    "ev"
+  ],
+  "motors_emergency_stopped": [
+    "ev"
+  ],
+  "motors_emergency_stop_cleared": [
+    "ev"
+  ],
+  "motors_interlock_disabled": [
+    "ev"
+  ],
+  "motors_interlock_enabled": [
+    "ev"
+  ],
+  "rotor_runup_complete": [
+    "ev"
+  ],
+  "rotor_speed_below_critical": [
+    "ev"
+  ],
+  "ekf_alt_reset": [
+    "ev"
+  ],
+  "land_cancelled_by_pilot": [
+    "ev"
+  ],
+  "avoidance_adsb_enable": [
+    "ev"
+  ],
+  "avoidance_adsb_disable": [
+    "ev"
+  ],
+  "avoidance_proximity_enable": [
+    "ev"
+  ],
+  "avoidance_proximity_disable": [
+    "ev"
+  ],
+  "gps_primary_changed": [
+    "ev"
+  ],
+  "zigzag_store_a": [
+    "ev"
+  ],
+  "zigzag_store_b": [
+    "ev"
+  ],
+  "land_repo_active": [
+    "ev"
+  ],
+  "standby_enable": [
+    "ev"
+  ],
+  "standby_disable": [
+    "ev"
+  ],
+  "fence_alt_max_enable": [
+    "ev"
+  ],
+  "fence_alt_max_disable": [
+    "ev"
+  ],
+  "fence_circle_enable": [
+    "ev"
+  ],
+  "fence_circle_disable": [
+    "ev"
+  ],
+  "fence_alt_min_enable": [
+    "ev"
+  ],
+  "fence_alt_min_disable": [
+    "ev"
+  ],
+  "fence_polygon_enable": [
+    "ev"
+  ],
+  "fence_polygon_disable": [
+    "ev"
+  ],
+  "ek3_sources_set_to_primary": [
+    "ev"
+  ],
+  "ek3_sources_set_to_secondary": [
+    "ev"
+  ],
+  "ek3_sources_set_to_tertiary": [
+    "ev"
+  ],
+  "airspeed_primary_changed": [
+    "ev"
+  ],
+  "surfaced": [
+    "ev"
+  ],
+  "not_surfaced": [
+    "ev"
+  ],
+  "bottomed": [
+    "ev"
+  ],
+  "not_bottomed": [
+    "ev"
+  ],
+  "nf": [
+    "fcn",
+    "ftns"
+  ],
+  "cf1": [
+    "fcn"
+  ],
+  "cf2": [
+    "fcn"
+  ],
+  "cf3": [
+    "fcn"
+  ],
+  "cf4": [
+    "fcn"
+  ],
+  "cf5": [
+    "fcn"
+  ],
+  "cf6": [
+    "fcn"
+  ],
+  "hf1": [
+    "fcn"
+  ],
+  "hf2": [
+    "fcn"
+  ],
+  "hf3": [
+    "fcn"
+  ],
+  "hf4": [
+    "fcn"
+  ],
+  "hf5": [
+    "fcn"
+  ],
+  "hf6": [
+    "fcn"
+  ],
+  "cf": [
+    "fcns",
+    "fenc"
+  ],
+  "hf": [
+    "fcns"
+  ],
+  "en": [
+    "fenc"
+  ],
+  "ae": [
+    "fenc",
+    "jsn2",
+    "psce",
+    "rbch",
+    "sitl",
+    "slup"
+  ],
+  "ef": [
+    "fenc"
+  ],
+  "df": [
+    "fenc"
+  ],
+  "filename": [
+    "file"
+  ],
+  "length": [
+    "file",
+    "fmt"
+  ],
+  "data": [
+    "file"
+  ],
+  "format": [
+    "fmt"
+  ],
+  "columns": [
+    "fmt"
+  ],
+  "fmttype": [
+    "fmtu"
+  ],
+  "unitids": [
+    "fmtu"
+  ],
+  "multids": [
+    "fmtu"
+  ],
+  "tot": [
+    "fnce",
+    "raly"
+  ],
+  "seq": [
+    "fnce",
+    "raly"
+  ],
+  "count": [
+    "fnce",
+    "ubxt"
+  ],
+  "radius": [
+    "fnce"
+  ],
+  "veln": [
+    "foll",
+    "vnkf"
+  ],
+  "vele": [
+    "foll",
+    "vnkf"
+  ],
+  "veld": [
+    "foll",
+    "vnkf"
+  ],
+  "late": [
+    "foll"
+  ],
+  "lone": [
+    "foll"
+  ],
+  "alte": [
+    "foll",
+    "ntun"
+  ],
+  "ndn": [
+    "ftn"
+  ],
+  "nf1": [
+    "ftn"
+  ],
+  "nf2": [
+    "ftn"
+  ],
+  "nf3": [
+    "ftn"
+  ],
+  "nf4": [
+    "ftn"
+  ],
+  "nf5": [
+    "ftn"
+  ],
+  "nf6": [
+    "ftn"
+  ],
+  "nf7": [
+    "ftn"
+  ],
+  "nf8": [
+    "ftn"
+  ],
+  "nf9": [
+    "ftn"
+  ],
+  "nf10": [
+    "ftn"
+  ],
+  "nf11": [
+    "ftn"
+  ],
+  "nf12": [
+    "ftn"
+  ],
+  "pkavg": [
+    "ftn1"
+  ],
+  "bwavg": [
+    "ftn1"
+  ],
+  "snx": [
+    "ftn1",
+    "ftn2"
+  ],
+  "sny": [
+    "ftn1",
+    "ftn2"
+  ],
+  "snz": [
+    "ftn1",
+    "ftn2"
+  ],
+  "fty": [
+    "ftn1"
+  ],
+  "ftz": [
+    "ftn1"
+  ],
+  "fhx": [
+    "ftn1"
+  ],
+  "fhy": [
+    "ftn1"
+  ],
+  "fhz": [
+    "ftn1"
+  ],
+  "tc": [
+    "ftn1",
+    "mavc",
+    "sids"
+  ],
+  "pkx": [
+    "ftn2"
+  ],
+  "pky": [
+    "ftn2"
+  ],
+  "pkz": [
+    "ftn2"
+  ],
+  "bwx": [
+    "ftn2"
+  ],
+  "bwy": [
+    "ftn2"
+  ],
+  "bwz": [
+    "ftn2"
+  ],
+  "enx": [
+    "ftn2"
+  ],
+  "eny": [
+    "ftn2"
+  ],
+  "enz": [
+    "ftn2"
+  ],
+  "pk1": [
+    "ftn3"
+  ],
+  "pk2": [
+    "ftn3"
+  ],
+  "pk3": [
+    "ftn3"
+  ],
+  "bw1": [
+    "ftn3"
+  ],
+  "bw2": [
+    "ftn3"
+  ],
+  "bw3": [
+    "ftn3"
+  ],
+  "en1": [
+    "ftn3"
+  ],
+  "en2": [
+    "ftn3"
+  ],
+  "en3": [
+    "ftn3"
+  ],
+  "fts": [
+    "fwdt"
+  ],
+  "qfplcd": [
+    "fwdt"
+  ],
+  "npllcd": [
+    "fwdt"
+  ],
+  "npcd": [
+    "fwdt",
+    "qbrk"
+  ],
+  "qft": [
+    "fwdt"
+  ],
+  "npulcd": [
+    "fwdt",
+    "qbrk"
+  ],
+  "alpha": [
+    "glt"
+  ],
+  "beta": [
+    "glt"
+  ],
+  "cl": [
+    "glt",
+    "var"
+  ],
+  "cm": [
+    "glt"
+  ],
+  "cn": [
+    "glt"
+  ],
+  "vdop": [
+    "gpa",
+    "ilb6"
+  ],
+  "hacc": [
+    "gpa"
+  ],
+  "vacc": [
+    "gpa"
+  ],
+  "sacc": [
+    "gpa"
+  ],
+  "yacc": [
+    "gpa"
+  ],
+  "vv": [
+    "gpa"
+  ],
+  "delta": [
+    "gpa"
+  ],
+  "ael": [
+    "gpa"
+  ],
+  "rtcmfu": [
+    "gpa"
+  ],
+  "rtcmfd": [
+    "gpa"
+  ],
+  "no_gps": [
+    "gps"
+  ],
+  "no_fix": [
+    "gps"
+  ],
+  "gps_ok_fix_2d": [
+    "gps"
+  ],
+  "gps_ok_fix_3d": [
+    "gps"
+  ],
+  "gps_ok_fix_3d_dgps": [
+    "gps"
+  ],
+  "gps_ok_fix_3d_rtk_float": [
+    "gps"
+  ],
+  "gps_ok_fix_3d_rtk_fixed": [
+    "gps"
+  ],
+  "gms": [
+    "gps",
+    "ilb1",
+    "ilb2",
+    "ilb3",
+    "ilb4",
+    "ilb5",
+    "ilb6",
+    "ilb7",
+    "ilb8",
+    "sbre"
+  ],
+  "gwk": [
+    "gps",
+    "ilb4",
+    "sbre"
+  ],
+  "nsats": [
+    "gps",
+    "rgpi"
+  ],
+  "hdop": [
+    "gps",
+    "ilb6"
+  ],
+  "spd": [
+    "gps",
+    "ilb4"
+  ],
+  "gcrs": [
+    "gps",
+    "ilb4"
+  ],
+  "rhd": [
+    "gpyw"
+  ],
+  "rdist": [
+    "gpyw"
+  ],
+  "rdown": [
+    "gpyw"
+  ],
+  "mincdown": [
+    "gpyw"
+  ],
+  "maxcdown": [
+    "gpyw"
+  ],
+  "ok": [
+    "gpyw"
+  ],
+  "wkms": [
+    "graw"
+  ],
+  "week": [
+    "graw",
+    "grxh"
+  ],
+  "numsv": [
+    "graw"
+  ],
+  "sv": [
+    "graw",
+    "grxs",
+    "nkf4",
+    "xkf4"
+  ],
+  "cpmes": [
+    "graw",
+    "grxs"
+  ],
+  "prmes": [
+    "graw",
+    "grxs"
+  ],
+  "domes": [
+    "graw",
+    "grxs"
+  ],
+  "mesqi": [
+    "graw"
+  ],
+  "cno": [
+    "graw",
+    "grxs"
+  ],
+  "lli": [
+    "graw"
+  ],
+  "rcvtime": [
+    "grxh"
+  ],
+  "leaps": [
+    "grxh"
+  ],
+  "nummeas": [
+    "grxh"
+  ],
+  "recstat": [
+    "grxh"
+  ],
+  "gnss": [
+    "grxs"
+  ],
+  "freq": [
+    "grxs"
+  ],
+  "lock": [
+    "grxs"
+  ],
+  "prd": [
+    "grxs"
+  ],
+  "cpd": [
+    "grxs"
+  ],
+  "dod": [
+    "grxs"
+  ],
+  "trk": [
+    "grxs"
+  ],
+  "gyrx": [
+    "gyr",
+    "ilb1",
+    "imu",
+    "vstb"
+  ],
+  "gyry": [
+    "gyr",
+    "ilb1",
+    "imu",
+    "vstb"
+  ],
+  "gyrz": [
+    "gyr",
+    "ilb1",
+    "imu",
+    "vstb"
+  ],
+  "out": [
+    "heat"
+  ],
+  "drrpm": [
+    "hrsc"
+  ],
+  "errpm": [
+    "hrsc"
+  ],
+  "gov": [
+    "hrsc"
+  ],
+  "throt": [
+    "hrsc"
+  ],
+  "ramp": [
+    "hrsc"
+  ],
+  "stat": [
+    "hrsc",
+    "rfnd",
+    "rgpi"
+  ],
+  "humidity": [
+    "hygr"
+  ],
+  "traw": [
+    "icmb"
+  ],
+  "praw": [
+    "icmb"
+  ],
+  "fuel": [
+    "ie24"
+  ],
+  "spmpwr": [
+    "ie24",
+    "iefc"
+  ],
+  "pout": [
+    "ie24",
+    "rate"
+  ],
+  "minor_internal": [
+    "ie24",
+    "iefc"
+  ],
+  "reduced_power": [
+    "ie24",
+    "iefc"
+  ],
+  "spm_lost": [
+    "ie24",
+    "iefc"
+  ],
+  "pressure_low": [
+    "ie24",
+    "iefc"
+  ],
+  "battery_low": [
+    "ie24",
+    "iefc"
+  ],
+  "pressure_alert": [
+    "ie24",
+    "iefc"
+  ],
+  "start_denied": [
+    "ie24",
+    "iefc"
+  ],
+  "system_critical": [
+    "ie24",
+    "iefc"
+  ],
+  "pressure_critical": [
+    "ie24",
+    "iefc"
+  ],
+  "battery_critical": [
+    "ie24",
+    "iefc"
+  ],
+  "tank": [
+    "iefc"
+  ],
+  "inlet": [
+    "iefc"
+  ],
+  "battv": [
+    "iefc"
+  ],
+  "outpwr": [
+    "iefc"
+  ],
+  "fno": [
+    "iefc"
+  ],
+  "bpwr": [
+    "iefc"
+  ],
+  "fcpm_off": [
+    "iefc"
+  ],
+  "starting": [
+    "iefc"
+  ],
+  "running": [
+    "iefc"
+  ],
+  "stopping": [
+    "iefc"
+  ],
+  "go_to_sleep": [
+    "iefc"
+  ],
+  "f1": [
+    "iefc",
+    "land",
+    "sfa1",
+    "sfan",
+    "sft",
+    "sfv1",
+    "ssan"
+  ],
+  "f2": [
+    "iefc",
+    "land",
+    "sfa1",
+    "sfan",
+    "sft",
+    "sfv1",
+    "ssan"
+  ],
+  "diff": [
+    "ilb3"
+  ],
+  "adu": [
+    "ilb3"
+  ],
+  "nsat": [
+    "ilb4"
+  ],
+  "newgps": [
+    "ilb4"
+  ],
+  "ftype": [
+    "ilb5"
+  ],
+  "gss": [
+    "ilb5"
+  ],
+  "gjs": [
+    "ilb5"
+  ],
+  "gi1": [
+    "ilb5"
+  ],
+  "gi2": [
+    "ilb5"
+  ],
+  "gaps": [
+    "ilb5"
+  ],
+  "gpshts": [
+    "ilb6"
+  ],
+  "gpsyaw": [
+    "ilb6"
+  ],
+  "gpspitch": [
+    "ilb6"
+  ],
+  "gdop": [
+    "ilb6"
+  ],
+  "pdop": [
+    "ilb6"
+  ],
+  "tdop": [
+    "ilb6"
+  ],
+  "usw": [
+    "ilb7"
+  ],
+  "usw2": [
+    "ilb7"
+  ],
+  "vdc": [
+    "ilb7"
+  ],
+  "pvn": [
+    "ilb8"
+  ],
+  "pve": [
+    "ilb8"
+  ],
+  "pvd": [
+    "ilb8"
+  ],
+  "vvn": [
+    "ilb8"
+  ],
+  "vve": [
+    "ilb8"
+  ],
+  "vvd": [
+    "ilb8"
+  ],
+  "eg": [
+    "imu"
+  ],
+  "ea": [
+    "imu"
+  ],
+  "gh": [
+    "imu",
+    "ver"
+  ],
+  "ah": [
+    "imu"
+  ],
+  "ghz": [
+    "imu"
+  ],
+  "ahz": [
+    "imu"
+  ],
+  "rserr": [
+    "iomc"
+  ],
+  "mem": [
+    "iomc",
+    "pm"
+  ],
+  "npkt": [
+    "iomc"
+  ],
+  "nerr": [
+    "iomc"
+  ],
+  "nerr2": [
+    "iomc"
+  ],
+  "ndel": [
+    "iomc"
+  ],
+  "devid": [
+    "ireg"
+  ],
+  "bank": [
+    "ireg"
+  ],
+  "reg": [
+    "ireg"
+  ],
+  "val": [
+    "ireg"
+  ],
+  "seqno": [
+    "isbd"
+  ],
+  "x": [
+    "isbd",
+    "mavc",
+    "tclr"
+  ],
+  "z": [
+    "isbd",
+    "mavc",
+    "tclr"
+  ],
+  "mul": [
+    "isbh"
+  ],
+  "smp_cnt": [
+    "isbh"
+  ],
+  "smp_rate": [
+    "isbh"
+  ],
+  "tstamp": [
+    "jsn1"
+  ],
+  "an": [
+    "jsn2",
+    "pscn",
+    "sitl",
+    "slup"
+  ],
+  "ad": [
+    "jsn2",
+    "pscd",
+    "sitl",
+    "sl2",
+    "sld",
+    "slup"
+  ],
+  "stage": [
+    "land",
+    "stat"
+  ],
+  "slope": [
+    "land"
+  ],
+  "slopeinit": [
+    "land"
+  ],
+  "alto": [
+    "land"
+  ],
+  "fh": [
+    "land"
+  ],
+  "landinggear": [
+    "lgr"
+  ],
+  "lg_unknown": [
+    "lgr"
+  ],
+  "lg_retracted": [
+    "lgr"
+  ],
+  "lg_deployed": [
+    "lgr"
+  ],
+  "lg_retracting": [
+    "lgr"
+  ],
+  "lg_deploying": [
+    "lgr"
+  ],
+  "weightonwheels": [
+    "lgr"
+  ],
+  "lg_wow_unknown": [
+    "lgr"
+  ],
+  "lg_no_wow": [
+    "lgr"
+  ],
+  "lg_wow": [
+    "lgr"
+  ],
+  "si": [
+    "loec"
+  ],
+  "ci": [
+    "loec"
+  ],
+  "c": [
+    "loec",
+    "nkf0",
+    "nkf1",
+    "nkf2",
+    "nkf3",
+    "nkf4",
+    "nkf5",
+    "nkq",
+    "nkt",
+    "nky0",
+    "nky1",
+    "rmgh",
+    "xkf0",
+    "xkf1",
+    "xkf2",
+    "xkf3",
+    "xkf4",
+    "xkf5",
+    "xkfd",
+    "xkfm",
+    "xkfs",
+    "xkq",
+    "xkt",
+    "xktv",
+    "xkv1",
+    "xkv2",
+    "xky0",
+    "xky1"
+  ],
+  "gs": [
+    "loec"
+  ],
+  "strtr": [
+    "loec"
+  ],
+  "vb": [
+    "loeg"
+  ],
+  "cb": [
+    "loeg"
+  ],
+  "cg": [
+    "loeg"
+  ],
+  "th": [
+    "loeg",
+    "soar",
+    "tecs"
+  ],
+  "eb": [
+    "loeg"
+  ],
+  "pw": [
+    "loeg"
+  ],
+  "fc": [
+    "loeg",
+    "var"
+  ],
+  "ep": [
+    "loeg"
+  ],
+  "emt": [
+    "loeg"
+  ],
+  "ofsx": [
+    "mag"
+  ],
+  "ofsy": [
+    "mag"
+  ],
+  "ofsz": [
+    "mag"
+  ],
+  "mox": [
+    "mag"
+  ],
+  "moy": [
+    "mag"
+  ],
+  "moz": [
+    "mag"
+  ],
+  "node": [
+    "magh"
+  ],
+  "sensor": [
+    "magh"
+  ],
+  "mx": [
+    "magh",
+    "nkf2",
+    "pl",
+    "vnim",
+    "xkf2"
+  ],
+  "my": [
+    "magh",
+    "nkf2",
+    "pl",
+    "vnim",
+    "xkf2"
+  ],
+  "mz": [
+    "magh",
+    "nkf2",
+    "pl",
+    "vnim",
+    "xkf2"
+  ],
+  "chan": [
+    "mav",
+    "rtcm"
+  ],
+  "txp": [
+    "mav"
+  ],
+  "rxp": [
+    "mav"
+  ],
+  "rxdp": [
+    "mav",
+    "uart"
+  ],
+  "using_signing": [
+    "mav"
+  ],
+  "active": [
+    "mav",
+    "slv1",
+    "srtl"
+  ],
+  "streaming": [
+    "mav"
+  ],
+  "private": [
+    "mav"
+  ],
+  "locked": [
+    "mav"
+  ],
+  "tf": [
+    "mav",
+    "rfrh"
+  ],
+  "sc": [
+    "mavc"
+  ],
+  "fr": [
+    "mavc",
+    "tilt"
+  ],
+  "cmd": [
+    "mavc"
+  ],
+  "p1": [
+    "mavc"
+  ],
+  "p2": [
+    "mavc",
+    "smoo"
+  ],
+  "p3": [
+    "mavc"
+  ],
+  "p4": [
+    "mavc"
+  ],
+  "wl": [
+    "mavc"
+  ],
+  "mtemp": [
+    "mcu",
+    "trmp",
+    "trst"
+  ],
+  "mvolt": [
+    "mcu",
+    "trst"
+  ],
+  "mvmin": [
+    "mcu"
+  ],
+  "mvmax": [
+    "mcu"
+  ],
+  "nx": [
+    "mmo"
+  ],
+  "ny": [
+    "mmo"
+  ],
+  "nz": [
+    "mmo"
+  ],
+  "ox": [
+    "mmo",
+    "rboh",
+    "rgpi",
+    "rmgi",
+    "rvoh"
+  ],
+  "oy": [
+    "mmo",
+    "rboh",
+    "rgpi",
+    "rmgi",
+    "rvoh"
+  ],
+  "oz": [
+    "mmo",
+    "rboh",
+    "rgpi",
+    "rmgi",
+    "rvoh"
+  ],
+  "droll": [
+    "mnt"
+  ],
+  "dpitch": [
+    "mnt"
+  ],
+  "dyawb": [
+    "mnt"
+  ],
+  "yawb": [
+    "mnt"
+  ],
+  "dyawe": [
+    "mnt"
+  ],
+  "yawe": [
+    "mnt"
+  ],
+  "dist": [
+    "mnt",
+    "ntun",
+    "qpos",
+    "rbci",
+    "rfnd",
+    "rrni"
+  ],
+  "mode": [
+    "mode",
+    "rich",
+    "winc"
+  ],
+  "modenum": [
+    "mode"
+  ],
+  "rsn": [
+    "mode"
+  ],
+  "rc_command": [
+    "mode"
+  ],
+  "gcs_command": [
+    "mode"
+  ],
+  "radio_failsafe": [
+    "mode"
+  ],
+  "battery_failsafe": [
+    "mode"
+  ],
+  "gcs_failsafe": [
+    "mode"
+  ],
+  "ekf_failsafe": [
+    "mode"
+  ],
+  "gps_glitch": [
+    "mode"
+  ],
+  "mission_end": [
+    "mode"
+  ],
+  "throttle_land_escape": [
+    "mode"
+  ],
+  "fence_breached": [
+    "mode"
+  ],
+  "terrain_failsafe": [
+    "mode"
+  ],
+  "brake_timeout": [
+    "mode"
+  ],
+  "flip_complete": [
+    "mode"
+  ],
+  "avoidance": [
+    "mode"
+  ],
+  "avoidance_recovery": [
+    "mode"
+  ],
+  "throw_complete": [
+    "mode"
+  ],
+  "terminate": [
+    "mode"
+  ],
+  "toy_mode": [
+    "mode"
+  ],
+  "crash_failsafe": [
+    "mode"
+  ],
+  "soaring_fbw_b_with_motor_running": [
+    "mode"
+  ],
+  "soaring_thermal_detected": [
+    "mode"
+  ],
+  "soaring_thermal_estimate_deteriorated": [
+    "mode"
+  ],
+  "vtol_failed_transition": [
+    "mode"
+  ],
+  "vtol_failed_takeoff": [
+    "mode"
+  ],
+  "failsafe": [
+    "mode"
+  ],
+  "initialised": [
+    "mode"
+  ],
+  "surface_complete": [
+    "mode"
+  ],
+  "bad_depth": [
+    "mode"
+  ],
+  "leak_failsafe": [
+    "mode"
+  ],
+  "servotest": [
+    "mode"
+  ],
+  "startup": [
+    "mode"
+  ],
+  "unavailable": [
+    "mode"
+  ],
+  "autorotation_start": [
+    "mode"
+  ],
+  "autorotation_bailout": [
+    "mode"
+  ],
+  "soaring_alt_too_high": [
+    "mode"
+  ],
+  "soaring_alt_too_low": [
+    "mode"
+  ],
+  "soaring_drift_exceeded": [
+    "mode"
+  ],
+  "rtl_complete_switching_to_vtol_land_rtl": [
+    "mode"
+  ],
+  "rtl_complete_switching_to_fixedwing_autoland": [
+    "mode"
+  ],
+  "mission_cmd": [
+    "mode"
+  ],
+  "frsky_command": [
+    "mode"
+  ],
+  "fence_return_previous_mode": [
+    "mode"
+  ],
+  "qrtl_instead_of_rtl": [
+    "mode"
+  ],
+  "auto_rtl_exit": [
+    "mode"
+  ],
+  "loiter_alt_reached_qland": [
+    "mode"
+  ],
+  "loiter_alt_in_vtol": [
+    "mode"
+  ],
+  "radio_failsafe_recovery": [
+    "mode"
+  ],
+  "qland_instead_of_rtl": [
+    "mode"
+  ],
+  "mode_takeoff_failsafe": [
+    "mode"
+  ],
+  "dds_command": [
+    "mode"
+  ],
+  "aux_function": [
+    "mode"
+  ],
+  "fixed_wing_autoland": [
+    "mode"
+  ],
+  "fence_reenable": [
+    "mode"
+  ],
+  "dly": [
+    "mon"
+  ],
+  "tsk": [
+    "mon",
+    "wdog"
+  ],
+  "ierr": [
+    "mon"
+  ],
+  "ierrcnt": [
+    "mon"
+  ],
+  "ierrln": [
+    "mon"
+  ],
+  "mm": [
+    "mon"
+  ],
+  "mc": [
+    "mon"
+  ],
+  "smln": [
+    "mon",
+    "wdog"
+  ],
+  "spicnt": [
+    "mon"
+  ],
+  "i2ccnt": [
+    "mon"
+  ],
+  "liftmax": [
+    "motb"
+  ],
+  "batvolt": [
+    "motb"
+  ],
+  "thlimit": [
+    "motb"
+  ],
+  "thravmx": [
+    "motb"
+  ],
+  "throut": [
+    "motb"
+  ],
+  "failflags": [
+    "motb"
+  ],
+  "message": [
+    "msg"
+  ],
+  "mult": [
+    "mult"
+  ],
+  "rng": [
+    "nkf0",
+    "nkf5",
+    "xkf0",
+    "xkf5"
+  ],
+  "innov": [
+    "nkf0",
+    "xkf0"
+  ],
+  "siv": [
+    "nkf0",
+    "xkf0"
+  ],
+  "bpn": [
+    "nkf0",
+    "xkf0"
+  ],
+  "bpe": [
+    "nkf0",
+    "xkf0"
+  ],
+  "bpd": [
+    "nkf0",
+    "xkf0"
+  ],
+  "ofh": [
+    "nkf0",
+    "xkf0"
+  ],
+  "ofl": [
+    "nkf0",
+    "xkf0"
+  ],
+  "ofn": [
+    "nkf0",
+    "nkf4",
+    "xkf0",
+    "xkf4"
+  ],
+  "ofe": [
+    "nkf0",
+    "nkf4",
+    "xkf0",
+    "xkf4"
+  ],
+  "ofd": [
+    "nkf0",
+    "xkf0"
+  ],
+  "dpd": [
+    "nkf1",
+    "pscd",
+    "xkf1"
+  ],
+  "pn": [
+    "nkf1",
+    "pscn",
+    "sim2",
+    "sitl",
+    "slup",
+    "xkf1"
+  ],
+  "pe": [
+    "nkf1",
+    "psce",
+    "sim2",
+    "sitl",
+    "slup",
+    "xkf1"
+  ],
+  "pd": [
+    "nkf1",
+    "pscd",
+    "rasi",
+    "sim2",
+    "sitl",
+    "slup",
+    "xkf1"
+  ],
+  "oh": [
+    "nkf1",
+    "xkf1"
+  ],
+  "azbias": [
+    "nkf2"
+  ],
+  "gsx": [
+    "nkf2"
+  ],
+  "gsy": [
+    "nkf2"
+  ],
+  "gsz": [
+    "nkf2"
+  ],
+  "mn": [
+    "nkf2",
+    "xkf2"
+  ],
+  "me": [
+    "nkf2",
+    "xkf2"
+  ],
+  "md": [
+    "nkf2",
+    "xkf2"
+  ],
+  "mi": [
+    "nkf2",
+    "xkfs"
+  ],
+  "ivn": [
+    "nkf3",
+    "xkf3"
+  ],
+  "ive": [
+    "nkf3",
+    "xkf3"
+  ],
+  "ivd": [
+    "nkf3",
+    "xkf3"
+  ],
+  "ipn": [
+    "nkf3",
+    "xkf3"
+  ],
+  "ipe": [
+    "nkf3",
+    "xkf3"
+  ],
+  "ipd": [
+    "nkf3",
+    "xkf3"
+  ],
+  "imx": [
+    "nkf3",
+    "xkf3"
+  ],
+  "imy": [
+    "nkf3",
+    "xkf3"
+  ],
+  "imz": [
+    "nkf3",
+    "xkf3"
+  ],
+  "iyaw": [
+    "nkf3",
+    "xkf3"
+  ],
+  "ivt": [
+    "nkf3",
+    "xkf3"
+  ],
+  "rerr": [
+    "nkf3",
+    "xkf3"
+  ],
+  "ersc": [
+    "nkf3",
+    "xkf3"
+  ],
+  "sm": [
+    "nkf4",
+    "scve",
+    "xkf4"
+  ],
+  "svt": [
+    "nkf4",
+    "xkf4"
+  ],
+  "fs": [
+    "nkf4",
+    "xkf4"
+  ],
+  "attitude_valid": [
+    "nkf4",
+    "xkf4"
+  ],
+  "horiz_vel": [
+    "nkf4",
+    "xkf4"
+  ],
+  "vert_vel": [
+    "nkf4",
+    "xkf4"
+  ],
+  "horiz_pos_rel": [
+    "nkf4",
+    "xkf4"
+  ],
+  "horiz_pos_abs": [
+    "nkf4",
+    "xkf4"
+  ],
+  "vert_pos": [
+    "nkf4",
+    "xkf4"
+  ],
+  "terrain_alt": [
+    "nkf4",
+    "xkf4"
+  ],
+  "const_pos_mode": [
+    "nkf4",
+    "xkf4"
+  ],
+  "pred_horiz_pos_rel": [
+    "nkf4",
+    "xkf4"
+  ],
+  "pred_horiz_pos_abs": [
+    "nkf4",
+    "xkf4"
+  ],
+  "takeoff_detected": [
+    "nkf4",
+    "xkf4"
+  ],
+  "takeoff_expected": [
+    "nkf4",
+    "rfrn",
+    "xkf4"
+  ],
+  "touchdown_expected": [
+    "nkf4",
+    "rfrn",
+    "xkf4"
+  ],
+  "using_gps": [
+    "nkf4",
+    "xkf4"
+  ],
+  "gps_glitching": [
+    "nkf4",
+    "xkf4"
+  ],
+  "gps_quality_good": [
+    "nkf4",
+    "xkf4"
+  ],
+  "initalized": [
+    "nkf4",
+    "xkf4"
+  ],
+  "rejecting_airspeed": [
+    "nkf4",
+    "xkf4"
+  ],
+  "dead_reckoning": [
+    "nkf4",
+    "xkf4"
+  ],
+  "pi": [
+    "nkf4",
+    "xkf4"
+  ],
+  "ni": [
+    "nkf5",
+    "xkf5"
+  ],
+  "fiy": [
+    "nkf5",
+    "xkf5"
+  ],
+  "afi": [
+    "nkf5",
+    "xkf5"
+  ],
+  "hagl": [
+    "nkf5",
+    "xkf5"
+  ],
+  "ri": [
+    "nkf5",
+    "xkf5"
+  ],
+  "herr": [
+    "nkf5",
+    "xkf5"
+  ],
+  "eang": [
+    "nkf5",
+    "xkf5"
+  ],
+  "evel": [
+    "nkf5",
+    "xkf5"
+  ],
+  "epos": [
+    "nkf5",
+    "xkf5"
+  ],
+  "imumin": [
+    "nkt",
+    "xkt"
+  ],
+  "imumax": [
+    "nkt",
+    "xkt"
+  ],
+  "ekfmin": [
+    "nkt",
+    "xkt"
+  ],
+  "ekfmax": [
+    "nkt",
+    "xkt"
+  ],
+  "angmin": [
+    "nkt",
+    "xkt"
+  ],
+  "angmax": [
+    "nkt",
+    "xkt"
+  ],
+  "vmin": [
+    "nkt",
+    "xkt"
+  ],
+  "vmax": [
+    "nkt",
+    "xkt"
+  ],
+  "yc": [
+    "nky0",
+    "xky0"
+  ],
+  "ycs": [
+    "nky0",
+    "xky0"
+  ],
+  "y0": [
+    "nky0",
+    "xky0"
+  ],
+  "y1": [
+    "nky0",
+    "xky0"
+  ],
+  "y2": [
+    "nky0",
+    "smoo",
+    "xky0"
+  ],
+  "y3": [
+    "nky0",
+    "xky0"
+  ],
+  "y4": [
+    "nky0",
+    "xky0"
+  ],
+  "w0": [
+    "nky0",
+    "xky0"
+  ],
+  "w1": [
+    "nky0",
+    "xky0"
+  ],
+  "w2": [
+    "nky0",
+    "xky0"
+  ],
+  "w3": [
+    "nky0",
+    "xky0"
+  ],
+  "w4": [
+    "nky0",
+    "xky0"
+  ],
+  "ivn0": [
+    "nky1",
+    "xky1"
+  ],
+  "ivn1": [
+    "nky1",
+    "xky1"
+  ],
+  "ivn2": [
+    "nky1",
+    "xky1"
+  ],
+  "ivn3": [
+    "nky1",
+    "xky1"
+  ],
+  "ivn4": [
+    "nky1",
+    "xky1"
+  ],
+  "ive0": [
+    "nky1",
+    "xky1"
+  ],
+  "ive1": [
+    "nky1",
+    "xky1"
+  ],
+  "ive2": [
+    "nky1",
+    "xky1"
+  ],
+  "ive3": [
+    "nky1",
+    "xky1"
+  ],
+  "ive4": [
+    "nky1",
+    "xky1"
+  ],
+  "tbrg": [
+    "ntun"
+  ],
+  "navbrg": [
+    "ntun"
+  ],
+  "xti": [
+    "ntun"
+  ],
+  "ase": [
+    "ntun"
+  ],
+  "tlat": [
+    "ntun"
+  ],
+  "tlng": [
+    "ntun"
+  ],
+  "taw": [
+    "ntun"
+  ],
+  "tat": [
+    "ntun"
+  ],
+  "tasp": [
+    "ntun"
+  ],
+  "value": [
+    "nvf",
+    "parm",
+    "prtn"
+  ],
+  "dyaw": [
+    "oabr"
+  ],
+  "rchg": [
+    "oabr"
+  ],
+  "mar": [
+    "oabr"
+  ],
+  "dlt": [
+    "oabr"
+  ],
+  "dlg": [
+    "oabr"
+  ],
+  "dalt": [
+    "oabr",
+    "qtun"
+  ],
+  "olt": [
+    "oabr"
+  ],
+  "olg": [
+    "oabr"
+  ],
+  "oalt": [
+    "oabr",
+    "rbch"
+  ],
+  "currpoint": [
+    "oadj"
+  ],
+  "totpoints": [
+    "oadj"
+  ],
+  "dlat": [
+    "oadj"
+  ],
+  "dlng": [
+    "oadj"
+  ],
+  "oalat": [
+    "oadj"
+  ],
+  "oalng": [
+    "oadj"
+  ],
+  "point_num": [
+    "oavg"
+  ],
+  "qual": [
+    "of",
+    "rofh",
+    "rpm"
+  ],
+  "flowx": [
+    "of"
+  ],
+  "flowy": [
+    "of"
+  ],
+  "bodyx": [
+    "of"
+  ],
+  "bodyy": [
+    "of"
+  ],
+  "frate": [
+    "ofca"
+  ],
+  "brate": [
+    "ofca"
+  ],
+  "lpred": [
+    "ofca"
+  ],
+  "arsp": [
+    "ofg"
+  ],
+  "arspa": [
+    "ofg"
+  ],
+  "alta": [
+    "ofg"
+  ],
+  "altf": [
+    "ofg"
+  ],
+  "hdg": [
+    "ofg"
+  ],
+  "hdga": [
+    "ofg"
+  ],
+  "altl": [
+    "ofg"
+  ],
+  "ekf_origin": [
+    "orgn"
+  ],
+  "ahrs_home": [
+    "orgn"
+  ],
+  "default": [
+    "parm"
+  ],
+  "tar": [
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy"
+  ],
+  "dff": [
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy"
+  ],
+  "dmod": [
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy"
+  ],
+  "srate": [
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy",
+    "qwik"
+  ],
+  "limit": [
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy"
+  ],
+  "pd_sum_limit": [
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy"
+  ],
+  "reset": [
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy"
+  ],
+  "i_term_set": [
+    "pida",
+    "pide",
+    "pidg",
+    "pidn",
+    "pidp",
+    "pidr",
+    "pids",
+    "pidy",
+    "piqa",
+    "piqp",
+    "piqr",
+    "piqy"
+  ],
+  "heal": [
+    "pl",
+    "winc"
+  ],
+  "tacq": [
+    "pl"
+  ],
+  "lastmeasms": [
+    "pl"
+  ],
+  "ekfoutl": [
+    "pl"
+  ],
+  "est": [
+    "pl"
+  ],
+  "lr": [
+    "pm",
+    "rish",
+    "wdog"
+  ],
+  "nlon": [
+    "pm"
+  ],
+  "nl": [
+    "pm"
+  ],
+  "maxt": [
+    "pm"
+  ],
+  "load": [
+    "pm"
+  ],
+  "ine": [
+    "pm"
+  ],
+  "logger_mapfailure": [
+    "pm"
+  ],
+  "logger_missing_logstructure": [
+    "pm"
+  ],
+  "logger_logwrite_missingfmt": [
+    "pm"
+  ],
+  "logger_too_many_deletions": [
+    "pm"
+  ],
+  "logger_bad_getfilename": [
+    "pm"
+  ],
+  "panic": [
+    "pm"
+  ],
+  "logger_flushing_without_sem": [
+    "pm"
+  ],
+  "logger_bad_current_block": [
+    "pm"
+  ],
+  "logger_blockcount_mismatch": [
+    "pm"
+  ],
+  "logger_dequeue_failure": [
+    "pm"
+  ],
+  "constraining_nan": [
+    "pm"
+  ],
+  "watchdog_reset": [
+    "pm"
+  ],
+  "iomcu_reset": [
+    "pm"
+  ],
+  "iomcu_fail": [
+    "pm"
+  ],
+  "spi_fail": [
+    "pm"
+  ],
+  "main_loop_stuck": [
+    "pm"
+  ],
+  "gcs_bad_missionprotocol_link": [
+    "pm"
+  ],
+  "bitmask_range": [
+    "pm"
+  ],
+  "gcs_offset": [
+    "pm"
+  ],
+  "i2c_isr": [
+    "pm"
+  ],
+  "flow_of_control": [
+    "pm"
+  ],
+  "switch_full_sector_recursion": [
+    "pm"
+  ],
+  "bad_rotation": [
+    "pm"
+  ],
+  "stack_overflow": [
+    "pm"
+  ],
+  "imu_reset": [
+    "pm"
+  ],
+  "gpio_isr": [
+    "pm"
+  ],
+  "mem_guard": [
+    "pm"
+  ],
+  "dma_fail": [
+    "pm"
+  ],
+  "params_restored": [
+    "pm"
+  ],
+  "invalid_arg_or_result": [
+    "pm"
+  ],
+  "__last__": [
+    "pm"
+  ],
+  "errl": [
+    "pm"
+  ],
+  "erc": [
+    "pm"
+  ],
+  "spic": [
+    "pm"
+  ],
+  "i2cc": [
+    "pm"
+  ],
+  "i2ci": [
+    "pm"
+  ],
+  "ex": [
+    "pm"
+  ],
+  "relhomealt": [
+    "pos"
+  ],
+  "reloriginalt": [
+    "pos"
+  ],
+  "vcc": [
+    "powr",
+    "winc"
+  ],
+  "vservo": [
+    "powr"
+  ],
+  "brick_valid": [
+    "powr",
+    "powr"
+  ],
+  "servo_valid": [
+    "powr",
+    "powr"
+  ],
+  "usb_connected": [
+    "powr",
+    "powr"
+  ],
+  "periph_overcurrent": [
+    "powr",
+    "powr"
+  ],
+  "periph_hipower_overcurrent": [
+    "powr",
+    "powr"
+  ],
+  "changed": [
+    "powr",
+    "powr"
+  ],
+  "accflags": [
+    "powr"
+  ],
+  "safety": [
+    "powr",
+    "stat"
+  ],
+  "set": [
+    "prtn"
+  ],
+  "parm": [
+    "prtn"
+  ],
+  "centervalue": [
+    "prtn"
+  ],
+  "layer": [
+    "prx",
+    "prxr"
+  ],
+  "he": [
+    "prx"
+  ],
+  "d45": [
+    "prx",
+    "prxr"
+  ],
+  "d90": [
+    "prx",
+    "prxr"
+  ],
+  "d135": [
+    "prx",
+    "prxr"
+  ],
+  "d180": [
+    "prx",
+    "prxr"
+  ],
+  "d225": [
+    "prx",
+    "prxr"
+  ],
+  "d270": [
+    "prx",
+    "prxr"
+  ],
+  "d315": [
+    "prx",
+    "prxr"
+  ],
+  "dup": [
+    "prx"
+  ],
+  "can": [
+    "prx"
+  ],
+  "cdis": [
+    "prx"
+  ],
+  "tpd": [
+    "pscd"
+  ],
+  "dvd": [
+    "pscd"
+  ],
+  "tvd": [
+    "pscd",
+    "xktv"
+  ],
+  "dad": [
+    "pscd"
+  ],
+  "tad": [
+    "pscd"
+  ],
+  "dpe": [
+    "psce"
+  ],
+  "tpe": [
+    "psce"
+  ],
+  "dve": [
+    "psce"
+  ],
+  "tve": [
+    "psce"
+  ],
+  "dae": [
+    "psce"
+  ],
+  "tae": [
+    "psce"
+  ],
+  "dpn": [
+    "pscn"
+  ],
+  "tpn": [
+    "pscn"
+  ],
+  "dvn": [
+    "pscn"
+  ],
+  "tvn": [
+    "pscn"
+  ],
+  "dan": [
+    "pscn"
+  ],
+  "tan": [
+    "pscn"
+  ],
+  "tpod": [
+    "psod"
+  ],
+  "pod": [
+    "psod"
+  ],
+  "tvod": [
+    "psod"
+  ],
+  "vod": [
+    "psod"
+  ],
+  "taod": [
+    "psod"
+  ],
+  "aod": [
+    "psod"
+  ],
+  "tpoe": [
+    "psoe"
+  ],
+  "poe": [
+    "psoe"
+  ],
+  "tvoe": [
+    "psoe"
+  ],
+  "voe": [
+    "psoe"
+  ],
+  "taoe": [
+    "psoe"
+  ],
+  "aoe": [
+    "psoe"
+  ],
+  "tpon": [
+    "pson"
+  ],
+  "pon": [
+    "pson"
+  ],
+  "tvon": [
+    "pson"
+  ],
+  "von": [
+    "pson"
+  ],
+  "taon": [
+    "pson"
+  ],
+  "aon": [
+    "pson"
+  ],
+  "tpot": [
+    "psot"
+  ],
+  "pot": [
+    "psot"
+  ],
+  "tvot": [
+    "psot"
+  ],
+  "vot": [
+    "psot"
+  ],
+  "taot": [
+    "psot"
+  ],
+  "aot": [
+    "psot"
+  ],
+  "spdscaler": [
+    "qbrk"
+  ],
+  "qbplcd": [
+    "qbrk"
+  ],
+  "qpos_none": [
+    "qpos"
+  ],
+  "qpos_approach": [
+    "qpos"
+  ],
+  "qpos_airbrake": [
+    "qpos"
+  ],
+  "qpos_position1": [
+    "qpos"
+  ],
+  "qpos_position2": [
+    "qpos"
+  ],
+  "qpos_land_descend": [
+    "qpos"
+  ],
+  "qpos_land_abort": [
+    "qpos"
+  ],
+  "qpos_land_final": [
+    "qpos"
+  ],
+  "qpos_land_complete": [
+    "qpos"
+  ],
+  "tspd": [
+    "qpos"
+  ],
+  "tacc": [
+    "qpos"
+  ],
+  "oshoot": [
+    "qpos"
+  ],
+  "thi": [
+    "qtun"
+  ],
+  "abst": [
+    "qtun"
+  ],
+  "thh": [
+    "qtun"
+  ],
+  "balt": [
+    "qtun"
+  ],
+  "dcrt": [
+    "qtun"
+  ],
+  "tmix": [
+    "qtun"
+  ],
+  "trn": [
+    "qtun"
+  ],
+  "in_assisted_flight": [
+    "qtun"
+  ],
+  "fw_force": [
+    "qtun"
+  ],
+  "spin_recovery": [
+    "qtun"
+  ],
+  "paramno": [
+    "qwik"
+  ],
+  "gain": [
+    "qwik"
+  ],
+  "param": [
+    "qwik"
+  ],
+  "rssi": [
+    "rad"
+  ],
+  "remrssi": [
+    "rad"
+  ],
+  "txbuf": [
+    "rad"
+  ],
+  "noise": [
+    "rad"
+  ],
+  "remnoise": [
+    "rad"
+  ],
+  "rxerrors": [
+    "rad"
+  ],
+  "fixed": [
+    "rad"
+  ],
+  "primary": [
+    "rash",
+    "rbrh",
+    "rgph"
+  ],
+  "numinst": [
+    "rash",
+    "rbch",
+    "rbrh",
+    "rgph",
+    "rmgh"
+  ],
+  "updatems": [
+    "rasi"
+  ],
+  "use": [
+    "rasi"
+  ],
+  "rdes": [
+    "rate"
+  ],
+  "rout": [
+    "rate"
+  ],
+  "pdes": [
+    "rate"
+  ],
+  "yout": [
+    "rate"
+  ],
+  "ydes": [
+    "rate"
+  ],
+  "ades": [
+    "rate"
+  ],
+  "aout": [
+    "rate"
+  ],
+  "aoutslew": [
+    "rate"
+  ],
+  "olat": [
+    "rbch"
+  ],
+  "olng": [
+    "rbch"
+  ],
+  "lu": [
+    "rbci",
+    "rmgi"
+  ],
+  "q": [
+    "rboh",
+    "sl2",
+    "sld",
+    "visp",
+    "visv"
+  ],
+  "dpx": [
+    "rboh",
+    "smoo"
+  ],
+  "dpy": [
+    "rboh",
+    "smoo"
+  ],
+  "dpz": [
+    "rboh",
+    "smoo"
+  ],
+  "dax": [
+    "rboh",
+    "risi"
+  ],
+  "daz": [
+    "rboh",
+    "risi"
+  ],
+  "lastupdate": [
+    "rbri"
+  ],
+  "prot": [
+    "rcda"
+  ],
+  "len": [
+    "rcda",
+    "rtcm",
+    "slup",
+    "teth",
+    "winc"
+  ],
+  "u0": [
+    "rcda"
+  ],
+  "u1": [
+    "rcda"
+  ],
+  "u2": [
+    "rcda"
+  ],
+  "u3": [
+    "rcda"
+  ],
+  "u4": [
+    "rcda"
+  ],
+  "u5": [
+    "rcda"
+  ],
+  "u6": [
+    "rcda"
+  ],
+  "u7": [
+    "rcda"
+  ],
+  "u8": [
+    "rcda"
+  ],
+  "u9": [
+    "rcda"
+  ],
+  "c15": [
+    "rci2",
+    "rco2"
+  ],
+  "c16": [
+    "rci2",
+    "rco2"
+  ],
+  "omask": [
+    "rci2"
+  ],
+  "has_valid_input": [
+    "rci2"
+  ],
+  "in_rc_failsafe": [
+    "rci2"
+  ],
+  "c1": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c2": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c3": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c4": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c5": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c6": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c7": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c8": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c9": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c10": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c11": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c12": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c13": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c14": [
+    "rcin",
+    "rcou",
+    "slv2"
+  ],
+  "c17": [
+    "rco2"
+  ],
+  "c18": [
+    "rco2"
+  ],
+  "c19": [
+    "rco3"
+  ],
+  "c20": [
+    "rco3"
+  ],
+  "c21": [
+    "rco3"
+  ],
+  "c22": [
+    "rco3"
+  ],
+  "c23": [
+    "rco3"
+  ],
+  "c24": [
+    "rco3"
+  ],
+  "c25": [
+    "rco3"
+  ],
+  "c26": [
+    "rco3"
+  ],
+  "c27": [
+    "rco3"
+  ],
+  "c28": [
+    "rco3"
+  ],
+  "c29": [
+    "rco3"
+  ],
+  "c30": [
+    "rco3"
+  ],
+  "c31": [
+    "rco3"
+  ],
+  "c32": [
+    "rco3"
+  ],
+  "per": [
+    "reph"
+  ],
+  "aer": [
+    "reph"
+  ],
+  "event": [
+    "rev2",
+    "rev3"
+  ],
+  "resetgyrobias": [
+    "rev2",
+    "rev3"
+  ],
+  "resetheightdatum": [
+    "rev2",
+    "rev3"
+  ],
+  "setterrainhgtstable": [
+    "rev2",
+    "rev3"
+  ],
+  "unsetterrainhgtstable": [
+    "rev2",
+    "rev3"
+  ],
+  "requestyawreset": [
+    "rev2",
+    "rev3"
+  ],
+  "checklaneswitch": [
+    "rev2",
+    "rev3"
+  ],
+  "setsourceset0": [
+    "rev2",
+    "rev3"
+  ],
+  "setsourceset1": [
+    "rev2",
+    "rev3"
+  ],
+  "setsourceset2": [
+    "rev2",
+    "rev3"
+  ],
+  "er": [
+    "revh"
+  ],
+  "yawangle": [
+    "rey3"
+  ],
+  "yawangleerr": [
+    "rey3"
+  ],
+  "timestamp_ms": [
+    "rey3"
+  ],
+  "notconnected": [
+    "rfnd"
+  ],
+  "nodata": [
+    "rfnd"
+  ],
+  "outofrangelow": [
+    "rfnd"
+  ],
+  "outofrangehigh": [
+    "rfnd"
+  ],
+  "good": [
+    "rfnd"
+  ],
+  "orient": [
+    "rfnd",
+    "rrni"
+  ],
+  "rotation_none": [
+    "rfnd"
+  ],
+  "rotation_yaw_45": [
+    "rfnd"
+  ],
+  "rotation_yaw_90": [
+    "rfnd"
+  ],
+  "rotation_yaw_135": [
+    "rfnd"
+  ],
+  "rotation_yaw_180": [
+    "rfnd"
+  ],
+  "rotation_yaw_225": [
+    "rfnd"
+  ],
+  "rotation_yaw_270": [
+    "rfnd"
+  ],
+  "rotation_yaw_315": [
+    "rfnd"
+  ],
+  "rotation_roll_180": [
+    "rfnd"
+  ],
+  "rotation_roll_180_yaw_45": [
+    "rfnd"
+  ],
+  "rotation_roll_180_yaw_90": [
+    "rfnd"
+  ],
+  "rotation_roll_180_yaw_135": [
+    "rfnd"
+  ],
+  "rotation_pitch_180": [
+    "rfnd"
+  ],
+  "rotation_roll_180_yaw_225": [
+    "rfnd"
+  ],
+  "rotation_roll_180_yaw_270": [
+    "rfnd"
+  ],
+  "rotation_roll_180_yaw_315": [
+    "rfnd"
+  ],
+  "rotation_roll_90": [
+    "rfnd"
+  ],
+  "rotation_roll_90_yaw_45": [
+    "rfnd"
+  ],
+  "rotation_roll_90_yaw_90": [
+    "rfnd"
+  ],
+  "rotation_roll_90_yaw_135": [
+    "rfnd"
+  ],
+  "rotation_roll_270": [
+    "rfnd"
+  ],
+  "rotation_roll_270_yaw_45": [
+    "rfnd"
+  ],
+  "rotation_roll_270_yaw_90": [
+    "rfnd"
+  ],
+  "rotation_roll_270_yaw_135": [
+    "rfnd"
+  ],
+  "rotation_pitch_90": [
+    "rfnd"
+  ],
+  "rotation_pitch_270": [
+    "rfnd"
+  ],
+  "rotation_pitch_180_yaw_90": [
+    "rfnd"
+  ],
+  "rotation_pitch_180_yaw_270": [
+    "rfnd"
+  ],
+  "rotation_roll_90_pitch_90": [
+    "rfnd"
+  ],
+  "rotation_roll_180_pitch_90": [
+    "rfnd"
+  ],
+  "rotation_roll_270_pitch_90": [
+    "rfnd"
+  ],
+  "rotation_roll_90_pitch_180": [
+    "rfnd"
+  ],
+  "rotation_roll_270_pitch_180": [
+    "rfnd"
+  ],
+  "rotation_roll_90_pitch_270": [
+    "rfnd"
+  ],
+  "rotation_roll_180_pitch_270": [
+    "rfnd"
+  ],
+  "rotation_roll_270_pitch_270": [
+    "rfnd"
+  ],
+  "rotation_roll_90_pitch_180_yaw_90": [
+    "rfnd"
+  ],
+  "rotation_roll_90_yaw_270": [
+    "rfnd"
+  ],
+  "rotation_roll_90_pitch_68_yaw_293": [
+    "rfnd"
+  ],
+  "rotation_pitch_315": [
+    "rfnd"
+  ],
+  "rotation_roll_90_pitch_315": [
+    "rfnd"
+  ],
+  "rotation_pitch_7": [
+    "rfnd"
+  ],
+  "rotation_roll_45": [
+    "rfnd"
+  ],
+  "rotation_roll_315": [
+    "rfnd"
+  ],
+  "rotation_max": [
+    "rfnd"
+  ],
+  "rotation_custom_old": [
+    "rfnd"
+  ],
+  "rotation_custom_1": [
+    "rfnd"
+  ],
+  "rotation_custom_2": [
+    "rfnd"
+  ],
+  "rotation_custom_end": [
+    "rfnd"
+  ],
+  "quality": [
+    "rfnd",
+    "sbre"
+  ],
+  "ftypes": [
+    "rfrf"
+  ],
+  "initialisefilterekf2": [
+    "rfrf"
+  ],
+  "updatefilterekf2": [
+    "rfrf"
+  ],
+  "initialisefilterekf3": [
+    "rfrf"
+  ],
+  "updatefilterekf3": [
+    "rfrf"
+  ],
+  "logwriteekf2": [
+    "rfrf"
+  ],
+  "logwriteekf3": [
+    "rfrf"
+  ],
+  "slow": [
+    "rfrf"
+  ],
+  "hlat": [
+    "rfrn"
+  ],
+  "hlon": [
+    "rfrn"
+  ],
+  "halt": [
+    "rfrn"
+  ],
+  "am": [
+    "rfrn",
+    "scve"
+  ],
+  "tx": [
+    "rfrn",
+    "uart"
+  ],
+  "ty": [
+    "rfrn"
+  ],
+  "tz": [
+    "rfrn"
+  ],
+  "vc": [
+    "rfrn"
+  ],
+  "ekt": [
+    "rfrn"
+  ],
+  "ekf2": [
+    "rfrn"
+  ],
+  "ekf3": [
+    "rfrn"
+  ],
+  "unused": [
+    "rfrn"
+  ],
+  "fly_forward": [
+    "rfrn"
+  ],
+  "ahrs_airspeed_sensor_enabled": [
+    "rfrn"
+  ],
+  "opticalflow_enabled": [
+    "rfrn"
+  ],
+  "wheelencoder_enabled": [
+    "rfrn"
+  ],
+  "lg": [
+    "rgpi"
+  ],
+  "have_vertical_velocity": [
+    "rgpi"
+  ],
+  "horizontal_accuracy_returncode": [
+    "rgpi"
+  ],
+  "vertical_accuracy_returncode": [
+    "rgpi"
+  ],
+  "get_lag_returncode": [
+    "rgpi"
+  ],
+  "speed_accuracy_returncode": [
+    "rgpi"
+  ],
+  "gps_yaw_deg_returncode": [
+    "rgpi"
+  ],
+  "ya": [
+    "rgpj"
+  ],
+  "yt": [
+    "rgpj"
+  ],
+  "ha": [
+    "rgpj"
+  ],
+  "va": [
+    "rgpj"
+  ],
+  "hd": [
+    "rgpj"
+  ],
+  "runtime": [
+    "rich",
+    "scr"
+  ],
+  "mainttime": [
+    "rich"
+  ],
+  "errors": [
+    "rich"
+  ],
+  "ovolt": [
+    "rich"
+  ],
+  "ocurr": [
+    "rich"
+  ],
+  "pg": [
+    "rish"
+  ],
+  "ld": [
+    "rish",
+    "sl2",
+    "sld"
+  ],
+  "ac": [
+    "rish"
+  ],
+  "gc": [
+    "rish"
+  ],
+  "dvx": [
+    "risi"
+  ],
+  "dvy": [
+    "risi"
+  ],
+  "dvz": [
+    "risi"
+  ],
+  "dvdt": [
+    "risi"
+  ],
+  "dadt": [
+    "risi"
+  ],
+  "dec": [
+    "rmgh"
+  ],
+  "avail": [
+    "rmgh"
+  ],
+  "autodec": [
+    "rmgh"
+  ],
+  "numena": [
+    "rmgh"
+  ],
+  "loe": [
+    "rmgh"
+  ],
+  "fusable": [
+    "rmgh"
+  ],
+  "fx": [
+    "rmgi",
+    "rofh",
+    "sld"
+  ],
+  "fy": [
+    "rmgi",
+    "rofh",
+    "sld"
+  ],
+  "fz": [
+    "rmgi",
+    "sld"
+  ],
+  "ufy": [
+    "rmgi"
+  ],
+  "hsf": [
+    "rmgi"
+  ],
+  "tms": [
+    "rofh"
+  ],
+  "hgtovr": [
+    "rofh"
+  ],
+  "gcl": [
+    "rrnh"
+  ],
+  "maxd": [
+    "rrnh"
+  ],
+  "numsensors": [
+    "rrnh"
+  ],
+  "posaccsd": [
+    "rsll"
+  ],
+  "rxrssi": [
+    "rssi"
+  ],
+  "rxlq": [
+    "rssi"
+  ],
+  "old_utc": [
+    "rtc"
+  ],
+  "new_utc": [
+    "rtc"
+  ],
+  "rtcmid": [
+    "rtcm"
+  ],
+  "crc": [
+    "rtcm"
+  ],
+  "del": [
+    "rvoh"
+  ],
+  "ena": [
+    "rvoh"
+  ],
+  "uncertainty": [
+    "rwa2",
+    "rwa3"
+  ],
+  "da": [
+    "rwoh"
+  ],
+  "dvelx": [
+    "sa"
+  ],
+  "dvely": [
+    "sa"
+  ],
+  "dvelz": [
+    "sa"
+  ],
+  "mvelx": [
+    "sa"
+  ],
+  "mvely": [
+    "sa"
+  ],
+  "mvelz": [
+    "sa"
+  ],
+  "back": [
+    "sa"
+  ],
+  "afx": [
+    "saf1"
+  ],
+  "afy": [
+    "saf1"
+  ],
+  "afz": [
+    "saf1"
+  ],
+  "anx": [
+    "san1",
+    "san2"
+  ],
+  "any": [
+    "san1",
+    "san2"
+  ],
+  "anz": [
+    "san1",
+    "san2"
+  ],
+  "rax": [
+    "sblm"
+  ],
+  "ray": [
+    "sblm"
+  ],
+  "raz": [
+    "sblm"
+  ],
+  "crcerror": [
+    "sbph"
+  ],
+  "lastinject": [
+    "sbph"
+  ],
+  "iarhyp": [
+    "sbph"
+  ],
+  "ns_residual": [
+    "sbre"
+  ],
+  "level": [
+    "sbre"
+  ],
+  "total_mem": [
+    "scr"
+  ],
+  "run_mem": [
+    "scr"
+  ],
+  "jm": [
+    "scve"
+  ],
+  "v0": [
+    "scve"
+  ],
+  "vm": [
+    "scve"
+  ],
+  "l": [
+    "scve"
+  ],
+  "jm_out": [
+    "scve"
+  ],
+  "tj_out": [
+    "scve"
+  ],
+  "t2_out": [
+    "scve"
+  ],
+  "t4_out": [
+    "scve"
+  ],
+  "t6_out": [
+    "scve"
+  ],
+  "f0": [
+    "sfa1",
+    "sfan",
+    "sft",
+    "sfv1",
+    "ssan"
+  ],
+  "f3": [
+    "sfa1",
+    "sfan",
+    "sft",
+    "sfv1",
+    "ssan"
+  ],
+  "n0": [
+    "sfn"
+  ],
+  "n1": [
+    "sfn"
+  ],
+  "n2": [
+    "sfn"
+  ],
+  "n3": [
+    "sfn"
+  ],
+  "time": [
+    "sidd"
+  ],
+  "f": [
+    "sidd",
+    "tecs",
+    "trst"
+  ],
+  "mag": [
+    "sids"
+  ],
+  "fst": [
+    "sids"
+  ],
+  "fsp": [
+    "sids"
+  ],
+  "tfin": [
+    "sids"
+  ],
+  "tfout": [
+    "sids"
+  ],
+  "aspdu": [
+    "sim2"
+  ],
+  "ufc": [
+    "sim2"
+  ],
+  "altft": [
+    "sl2",
+    "sld"
+  ],
+  "keas": [
+    "sl2"
+  ],
+  "ktas": [
+    "sl2"
+  ],
+  "fl": [
+    "sl2",
+    "sld",
+    "tilt",
+    "wdog"
+  ],
+  "fd": [
+    "sl2",
+    "sld"
+  ],
+  "rud": [
+    "sl2"
+  ],
+  "altm": [
+    "sld"
+  ],
+  "eas": [
+    "sld"
+  ],
+  "tens": [
+    "slup",
+    "winc"
+  ],
+  "vfn": [
+    "slup",
+    "teth"
+  ],
+  "vfe": [
+    "slup",
+    "teth"
+  ],
+  "vfd": [
+    "slup",
+    "teth"
+  ],
+  "magic": [
+    "slv1"
+  ],
+  "frame_rate": [
+    "slv1"
+  ],
+  "frame_count": [
+    "slv1"
+  ],
+  "g": [
+    "smgc"
+  ],
+  "cz": [
+    "smgc"
+  ],
+  "aex": [
+    "smoo"
+  ],
+  "aey": [
+    "smoo"
+  ],
+  "aez": [
+    "smoo"
+  ],
+  "r2": [
+    "smoo"
+  ],
+  "despos": [
+    "smvz"
+  ],
+  "nettorate": [
+    "soar"
+  ],
+  "x0": [
+    "soar"
+  ],
+  "x1": [
+    "soar"
+  ],
+  "x2": [
+    "soar"
+  ],
+  "x3": [
+    "soar"
+  ],
+  "north": [
+    "soar"
+  ],
+  "east": [
+    "soar"
+  ],
+  "dx_w": [
+    "soar"
+  ],
+  "dy_w": [
+    "soar"
+  ],
+  "wx": [
+    "sorc"
+  ],
+  "wz": [
+    "sorc"
+  ],
+  "wexp": [
+    "sorc"
+  ],
+  "clmin": [
+    "sorc"
+  ],
+  "clmax": [
+    "sorc"
+  ],
+  "vopt": [
+    "sorc"
+  ],
+  "rtx": [
+    "srt1",
+    "srt2",
+    "srt3"
+  ],
+  "rty": [
+    "srt1",
+    "srt2",
+    "srt3"
+  ],
+  "rtz": [
+    "srt1",
+    "srt2",
+    "srt3"
+  ],
+  "numpts": [
+    "srtl"
+  ],
+  "maxpts": [
+    "srtl"
+  ],
+  "point_add": [
+    "srtl"
+  ],
+  "point_prune": [
+    "srtl"
+  ],
+  "point_simplify": [
+    "srtl"
+  ],
+  "add_failed_no_semaphore": [
+    "srtl"
+  ],
+  "add_failed_path_full": [
+    "srtl"
+  ],
+  "pop_failed_no_semaphore": [
+    "srtl"
+  ],
+  "peek_failed_no_semaphore": [
+    "srtl"
+  ],
+  "deactivated_init_failed": [
+    "srtl"
+  ],
+  "deactivated_bad_position_timeout": [
+    "srtl"
+  ],
+  "deactivated_path_full_timeout": [
+    "srtl"
+  ],
+  "deactivated_program_error": [
+    "srtl"
+  ],
+  "e": [
+    "srtl"
+  ],
+  "free": [
+    "stak"
+  ],
+  "isflying": [
+    "stat"
+  ],
+  "isflyprob": [
+    "stat"
+  ],
+  "still": [
+    "stat"
+  ],
+  "hit": [
+    "stat"
+  ],
+  "sup": [
+    "stat"
+  ],
+  "col": [
+    "swsh"
+  ],
+  "tcyc": [
+    "swsh"
+  ],
+  "pcyc": [
+    "swsh"
+  ],
+  "rcyc": [
+    "swsh"
+  ],
+  "stype": [
+    "tclr"
+  ],
+  "nsamp": [
+    "tclr"
+  ],
+  "pew": [
+    "tec2"
+  ],
+  "kew": [
+    "tec2"
+  ],
+  "ebd": [
+    "tec2"
+  ],
+  "ebe": [
+    "tec2"
+  ],
+  "ebdd": [
+    "tec2"
+  ],
+  "ebde": [
+    "tec2"
+  ],
+  "ebddt": [
+    "tec2"
+  ],
+  "imin": [
+    "tec2",
+    "tec3"
+  ],
+  "imax": [
+    "tec2",
+    "tec3"
+  ],
+  "ki": [
+    "tec2"
+  ],
+  "tmin": [
+    "tec2",
+    "tsit"
+  ],
+  "tmax": [
+    "tec2"
+  ],
+  "ked": [
+    "tec3"
+  ],
+  "ped": [
+    "tec3"
+  ],
+  "kedd": [
+    "tec3"
+  ],
+  "pedd": [
+    "tec3"
+  ],
+  "tee": [
+    "tec3"
+  ],
+  "tede": [
+    "tec3"
+  ],
+  "emin": [
+    "tec3"
+  ],
+  "emax": [
+    "tec3"
+  ],
+  "k": [
+    "tec4"
+  ],
+  "pdem": [
+    "tec4"
+  ],
+  "kdem": [
+    "tec4"
+  ],
+  "dh": [
+    "tecs"
+  ],
+  "hin": [
+    "tecs"
+  ],
+  "hdem": [
+    "tecs"
+  ],
+  "dhdem": [
+    "tecs"
+  ],
+  "spdem": [
+    "tecs"
+  ],
+  "dsp": [
+    "tecs",
+    "var"
+  ],
+  "ph": [
+    "tecs"
+  ],
+  "pmin": [
+    "tecs"
+  ],
+  "pmax": [
+    "tecs"
+  ],
+  "dspdem": [
+    "tecs"
+  ],
+  "underspeed": [
+    "tecs"
+  ],
+  "unachievabledescent": [
+    "tecs"
+  ],
+  "autolanding": [
+    "tecs"
+  ],
+  "reachedtakeoffspd": [
+    "tecs"
+  ],
+  "terrainstatusdisabled": [
+    "terr"
+  ],
+  "terrainstatusunhealthy": [
+    "terr"
+  ],
+  "terrainstatusok": [
+    "terr"
+  ],
+  "spacing": [
+    "terr"
+  ],
+  "terrh": [
+    "terr"
+  ],
+  "cheight": [
+    "terr"
+  ],
+  "pending": [
+    "terr"
+  ],
+  "loaded": [
+    "terr"
+  ],
+  "rofs": [
+    "terr"
+  ],
+  "tilt": [
+    "tilt"
+  ],
+  "cur": [
+    "trmp"
+  ],
+  "etemp": [
+    "trmp"
+  ],
+  "desmotspeed": [
+    "trqd"
+  ],
+  "motspeed": [
+    "trqd"
+  ],
+  "succcnt": [
+    "trqd"
+  ],
+  "errcnt": [
+    "trqd"
+  ],
+  "mottype": [
+    "trse"
+  ],
+  "motver": [
+    "trse"
+  ],
+  "battcap": [
+    "trse"
+  ],
+  "battpct": [
+    "trse"
+  ],
+  "batttype": [
+    "trse"
+  ],
+  "swver": [
+    "trse"
+  ],
+  "mcur": [
+    "trst"
+  ],
+  "bpct": [
+    "trst"
+  ],
+  "bvolt": [
+    "trst"
+  ],
+  "bcur": [
+    "trst"
+  ],
+  "sysid": [
+    "tsyn"
+  ],
+  "rtt": [
+    "tsyn"
+  ],
+  "rx": [
+    "uart"
+  ],
+  "noiseperms": [
+    "ubx1"
+  ],
+  "jamind": [
+    "ubx1"
+  ],
+  "apower": [
+    "ubx1"
+  ],
+  "agccnt": [
+    "ubx1"
+  ],
+  "config": [
+    "ubx1"
+  ],
+  "ofsi": [
+    "ubx2"
+  ],
+  "magi": [
+    "ubx2"
+  ],
+  "ofsq": [
+    "ubx2"
+  ],
+  "magq": [
+    "ubx2"
+  ],
+  "ch": [
+    "ubxt"
+  ],
+  "wnr": [
+    "ubxt"
+  ],
+  "msr": [
+    "ubxt"
+  ],
+  "submsr": [
+    "ubxt"
+  ],
+  "wnf": [
+    "ubxt"
+  ],
+  "msf": [
+    "ubxt"
+  ],
+  "submsf": [
+    "ubxt"
+  ],
+  "accest": [
+    "ubxt"
+  ],
+  "label": [
+    "unit"
+  ],
+  "aspd_raw": [
+    "var"
+  ],
+  "aspd_filt": [
+    "var"
+  ],
+  "raw": [
+    "var"
+  ],
+  "filt": [
+    "var"
+  ],
+  "exs": [
+    "var"
+  ],
+  "dspb": [
+    "var"
+  ],
+  "bt": [
+    "ver"
+  ],
+  "hal_board_sitl": [
+    "ver"
+  ],
+  "hal_board_linux": [
+    "ver"
+  ],
+  "hal_board_chibios": [
+    "ver"
+  ],
+  "hal_board_esp32": [
+    "ver"
+  ],
+  "hal_board_qurt": [
+    "ver"
+  ],
+  "hal_board_empty": [
+    "ver"
+  ],
+  "bst": [
+    "ver"
+  ],
+  "hal_board_subtype_none": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_none": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_erleboard": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_pxf": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_navio": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_zynq": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_bbbmini": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_bebop": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_erlebrain2": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_bh": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_pxfmini": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_navio2": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_disco": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_aero": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_dark": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_blue": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_ocpoc_zynq": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_edge": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_rst_zynq": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_pocket": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_navigator": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_vnav": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_obal_v1": [
+    "ver"
+  ],
+  "hal_board_subtype_linux_canzero": [
+    "ver"
+  ],
+  "hal_board_subtype_chibios_fmuv3": [
+    "ver"
+  ],
+  "hal_board_subtype_chibios_generic": [
+    "ver"
+  ],
+  "hal_board_subtype_chibios_fmuv5": [
+    "ver"
+  ],
+  "hal_board_subtype_esp32_diy": [
+    "ver"
+  ],
+  "hal_board_subtype_esp32_icarus": [
+    "ver"
+  ],
+  "hal_board_subtype_esp32_buzz": [
+    "ver"
+  ],
+  "hal_board_subtype_esp32_empty": [
+    "ver"
+  ],
+  "hal_board_subtype_esp32_tomte76": [
+    "ver"
+  ],
+  "hal_board_subtype_esp32_nick": [
+    "ver"
+  ],
+  "hal_board_subtype_esp32_s3devkit": [
+    "ver"
+  ],
+  "hal_board_subtype_esp32_s3empty": [
+    "ver"
+  ],
+  "hal_board_subtype_esp32_s3m5stampfly": [
+    "ver"
+  ],
+  "hal_board_subtype_esp32_imu_module_v11": [
+    "ver"
+  ],
+  "maj": [
+    "ver"
+  ],
+  "pat": [
+    "ver"
+  ],
+  "fwt": [
+    "ver"
+  ],
+  "fws": [
+    "ver"
+  ],
+  "apj": [
+    "ver"
+  ],
+  "bu": [
+    "ver"
+  ],
+  "apm_build_rover": [
+    "ver"
+  ],
+  "apm_build_arducopter": [
+    "ver"
+  ],
+  "apm_build_arduplane": [
+    "ver"
+  ],
+  "apm_build_antennatracker": [
+    "ver"
+  ],
+  "apm_build_unknown": [
+    "ver"
+  ],
+  "apm_build_replay": [
+    "ver"
+  ],
+  "apm_build_ardusub": [
+    "ver"
+  ],
+  "apm_build_iofirmware": [
+    "ver"
+  ],
+  "apm_build_ap_periph": [
+    "ver"
+  ],
+  "apm_build_ap_dal_standalone": [
+    "ver"
+  ],
+  "apm_build_ap_bootloader": [
+    "ver"
+  ],
+  "apm_build_blimp": [
+    "ver"
+  ],
+  "apm_build_heli": [
+    "ver"
+  ],
+  "fv": [
+    "ver"
+  ],
+  "imi": [
+    "ver"
+  ],
+  "ici": [
+    "ver"
+  ],
+  "imu": [
+    "vibe"
+  ],
+  "vibex": [
+    "vibe"
+  ],
+  "vibey": [
+    "vibe"
+  ],
+  "vibez": [
+    "vibe"
+  ],
+  "clip": [
+    "vibe"
+  ],
+  "angdx": [
+    "viso"
+  ],
+  "angdy": [
+    "viso"
+  ],
+  "angdz": [
+    "viso"
+  ],
+  "posdx": [
+    "viso"
+  ],
+  "posdy": [
+    "viso"
+  ],
+  "posdz": [
+    "viso"
+  ],
+  "conf": [
+    "viso"
+  ],
+  "rtimeus": [
+    "visp",
+    "visv"
+  ],
+  "ctimems": [
+    "visp",
+    "visv"
+  ],
+  "perr": [
+    "visp"
+  ],
+  "aerr": [
+    "visp"
+  ],
+  "rst": [
+    "visp",
+    "visv"
+  ],
+  "ign": [
+    "visp",
+    "visv"
+  ],
+  "verr": [
+    "visv"
+  ],
+  "yu": [
+    "vnat"
+  ],
+  "pu": [
+    "vnat"
+  ],
+  "ru": [
+    "vnat"
+  ],
+  "pres": [
+    "vnim"
+  ],
+  "insstatus": [
+    "vnkf"
+  ],
+  "posu": [
+    "vnkf"
+  ],
+  "velu": [
+    "vnkf"
+  ],
+  "ie": [
+    "wdog"
+  ],
+  "iec": [
+    "wdog"
+  ],
+  "iel": [
+    "wdog"
+  ],
+  "mvmsg": [
+    "wdog"
+  ],
+  "mvcmd": [
+    "wdog"
+  ],
+  "ft": [
+    "wdog"
+  ],
+  "icsr": [
+    "wdog"
+  ],
+  "tn": [
+    "wdog"
+  ],
+  "dist0": [
+    "wenc"
+  ],
+  "qual0": [
+    "wenc"
+  ],
+  "dist1": [
+    "wenc"
+  ],
+  "qual1": [
+    "wenc"
+  ],
+  "thend": [
+    "winc"
+  ],
+  "mov": [
+    "winc"
+  ],
+  "clut": [
+    "winc"
+  ],
+  "dlen": [
+    "winc"
+  ],
+  "drate": [
+    "winc"
+  ],
+  "drraw": [
+    "wind"
+  ],
+  "drapp": [
+    "wind"
+  ],
+  "drtru": [
+    "wind"
+  ],
+  "spdraw": [
+    "wind"
+  ],
+  "spdapp": [
+    "wind"
+  ],
+  "spdtru": [
+    "wind"
+  ],
+  "idy": [
+    "xkf2"
+  ],
+  "is": [
+    "xkf2"
+  ],
+  "ix": [
+    "xkfd"
+  ],
+  "iy": [
+    "xkfd"
+  ],
+  "iz": [
+    "xkfd"
+  ],
+  "ivx": [
+    "xkfd"
+  ],
+  "ivy": [
+    "xkfd"
+  ],
+  "ivz": [
+    "xkfd"
+  ],
+  "ognm": [
+    "xkfm"
+  ],
+  "glr": [
+    "xkfm"
+  ],
+  "alr": [
+    "xkfm"
+  ],
+  "gdr": [
+    "xkfm"
+  ],
+  "adr": [
+    "xkfm"
+  ],
+  "bi": [
+    "xkfs"
+  ],
+  "gi": [
+    "xkfs"
+  ],
+  "ai": [
+    "xkfs"
+  ],
+  "gps_gta": [
+    "xkfs"
+  ],
+  "gps_chk_wait": [
+    "xkfs"
+  ],
+  "mag_fusion": [
+    "xkfs"
+  ],
+  "tvs": [
+    "xktv"
+  ],
+  "v00": [
+    "xkv1"
+  ],
+  "v01": [
+    "xkv1"
+  ],
+  "v02": [
+    "xkv1"
+  ],
+  "v03": [
+    "xkv1"
+  ],
+  "v04": [
+    "xkv1"
+  ],
+  "v05": [
+    "xkv1"
+  ],
+  "v06": [
+    "xkv1"
+  ],
+  "v07": [
+    "xkv1"
+  ],
+  "v08": [
+    "xkv1"
+  ],
+  "v09": [
+    "xkv1"
+  ],
+  "v15": [
+    "xkv2"
+  ],
+  "v16": [
+    "xkv2"
+  ],
+  "v17": [
+    "xkv2"
+  ],
+  "v18": [
+    "xkv2"
+  ],
+  "v19": [
+    "xkv2"
+  ],
+  "v20": [
+    "xkv2"
+  ],
+  "v21": [
+    "xkv2"
+  ],
+  "v22": [
+    "xkv2"
+  ],
+  "v23": [
+    "xkv2"
+  ]
+}
